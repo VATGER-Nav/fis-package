@@ -1,0 +1,14 @@
+aeronav_copyright.txt
+EDXX/NavData/isec.txt
+EDXX/NavData/icao.txt
+EDXX/NavData/airway.txt
+EDXX/ICAO/ICAO_Airports.txt
+EDXX/ICAO/ICAO_Airlines.txt
+EDXX/ICAO/ICAO_Aircraft.txt
+EDXX/Alias/alias.txt
+EDXX/Alias/alias.txt
+EDXX/Alias/alias.txt
+EDXX/Settings/VoiceChannels.txt
+*.sct
+*.ese
+

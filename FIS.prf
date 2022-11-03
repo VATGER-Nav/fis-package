@@ -1,0 +1,48 @@
+Plugins	Plugin0	\EDXX\Plugins\TopSky\TopSky.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	\EDXX\Plugins\AfVEuroScopeBridge.dll
+Plugins	Plugin2	\EDXX\Plugins\CCAMS.dll
+Plugins	Plugin3	\EDXX\Plugins\SquawkIndicator\Squawks.dll
+RecentFiles	Recent1	\EDXX\ASR\FIS.asr
+Settings	Settingsfile	\EDXX\Settings\General.txt
+Settings	SettingsfileADCS	\EDXX\Settings\General.txt
+Settings	SettingsfileARR	\EDXX\Settings\ArrivalList.txt
+Settings	SettingsfileCONFLICT	\EDXX\Settings\ConflictListConfiguration.txt
+Settings	SettingsfileDEP	\EDXX\Settings\DepartureList.txt
+Settings	SettingsfileFP	\EDXX\Settings\FPList.txt
+Settings	SettingsfileORIGPLANE	\EDXX\Settings\General.txt
+Settings	SettingsfilePILOTING	\EDXX\Settings\Piloting.txt
+Settings	SettingsfilePLUGINS	\EDXX\Settings\Plugins.txt
+Settings	SettingsfilePROFILE	\EDXX\Settings\Profiles.txt
+Settings	SettingsfileSCREEN	\EDXX\Settings\Screen.txt
+Settings	SettingsfileSEL	\EDXX\Settings\SectorExitList.txt
+Settings	SettingsfileSIL	\EDXX\Settings\SectorInboundList.txt
+Settings	SettingsfileSTUP	\EDXX\Settings\General.txt
+Settings	SettingsfileSYMBOLOGY	\EDXX\Settings\Symbology.txt
+Settings	SettingsfileTAGS	\EDXX\Settings\Tags.txt
+Settings	SettingsfileTAKEOFF	\EDXX\Settings\General.txt
+Settings	SettingsfileTAXIIN	\EDXX\Settings\General.txt
+Settings	SettingsfileTAXIOUT	\EDXX\Settings\General.txt
+Settings	SettingsfileVCCS	\EDXX\Settings\VCCS.txt
+Settings	SettingsfileVOICE	\EDXX\Settings\VoiceChannels.txt
+Settings	airlines	\EDXX\ICAO\ICAO_Airlines.txt
+Settings	sector	\EDXX-FIS_20221103110425-221001-0004.sct
+TeamSpeakVccs	Ts3DialogBottom	721
+TeamSpeakVccs	Ts3DialogLeft	119
+TeamSpeakVccs	Ts3DialogRight	1002
+TeamSpeakVccs	Ts3DialogTop	121
+TeamSpeakVccs	TsVccsMiniControlX	729
+TeamSpeakVccs	TsVccsMiniControlY	24
+Sounds	Sound0	\EDXX\Sounds\Handoff Request.wav
+Sounds	Sound1	\EDXX\Sounds\Handoff Accept.wav
+Sounds	Sound2	\EDXX\Sounds\Conflict Alert1.wav
+Sounds	Sound3	\EDXX\Sounds\Private Msg.wav
+Sounds	Sound4	\EDXX\Sounds\Private Msg.wav
+Sounds	Sound7	\EDXX\Sounds\SMTAlarm1.wav
+Sounds	Sound9	\EDXX\Sounds\Connect.wav
+Sounds	Sound10	\EDXX\Sounds\Disconnect.wav
+Sounds	Sound11	\EDXX\Sounds\Ongoing request.wav
+Sounds	Sound12	\EDXX\Sounds\Ongoing accepted.wav
+Sounds	Sound13	\EDXX\Sounds\ongoing refused.wav
+Sounds	Sound14	\EDXX\Sounds\manual ongoing.wav
+Sounds	Sound18	\EDXX\Sounds\startup_silent.wav
