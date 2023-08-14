@@ -24,4 +24,55 @@ ATIS2:This is Langen Information
 ATIS3:Providing FIS in EDWW FIR
 ATIS4:Not providing ATC for IFR traffic!
 
+PROFILE:EDXX_IDS_CTR:300:6
+ATIS2:This is Langen Information
+ATIS3:Providing FIS around EDDS
+ATIS4:Not providing ATC for IFR traffic!
+
+PROFILE:EDXX_IDL_CTR:300:6
+ATIS2:This is Langen Information
+ATIS3:Providing FIS around EDDL
+ATIS4:Not providing ATC for IFR traffic!
+
+PROFILE:EDXX_IDB_CTR:300:6
+ATIS2:This is Langen Information
+ATIS3:Providing FIS around EDDB
+ATIS4:Not providing ATC for IFR traffic!
+
+
+PROFILE:EDXX_IDR_CTR:300:6
+ATIS2:This is Langen Information
+ATIS3:Providing FIS around EDDR
+ATIS4:Not providing ATC for IFR traffic!
+
+
+PROFILE:EDXX_IDM_CTR:300:6
+ATIS2:This is Langen Information
+ATIS3:Providing FIS around EDDM
+ATIS4:Not providing ATC for IFR traffic!
+
+
+PROFILE:EDXX_IDC_CTR:300:6
+ATIS2:This is Langen Information
+ATIS3:Providing FIS around EDDC
+ATIS4:Not providing ATC for IFR traffic!
+
+
+PROFILE:EDXX_IDF_CTR:300:6
+ATIS2:This is Langen Information
+ATIS3:Providing FIS around EDDF
+ATIS4:Not providing ATC for IFR traffic!
+
+
+PROFILE:EDXX_IDH_CTR:300:6
+ATIS2:This is Langen Information
+ATIS3:Providing FIS around EDDH
+ATIS4:Not providing ATC for IFR traffic!
+
+
+PROFILE:EDXX_IDV_CTR:300:6
+ATIS2:This is Langen Information
+ATIS3:Providing FIS around EDDV
+ATIS4:Not providing ATC for IFR traffic!
+
 END
