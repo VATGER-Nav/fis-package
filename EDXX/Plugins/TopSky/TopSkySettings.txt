@@ -139,7 +139,7 @@ Color_WM_Fg=20,20,21
 Color_WM_Frame=88,95,99
 Color_VFR=0,0,255
 
-HTTP_AUP_URL=https://lara.vatsim.pt/api/areas/ED/
+HTTP_AUP_URL=https://atciss.vatsim-germany.org/api/areas/topsky
 
 Malrt_Misap=MAPP
 Malrt_Inbound_EST=EST
