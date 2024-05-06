@@ -26,7 +26,7 @@ Settings	SettingsfileTAXIOUT	\EDXX\Settings\General.txt
 Settings	SettingsfileVCCS	\EDXX\Settings\VCCS.txt
 Settings	SettingsfileVOICE	\EDXX\Settings\VoiceChannels.txt
 Settings	airlines	\EDXX\ICAO\ICAO_Airlines.txt
-Settings	sector	\EDXX-FIS_20221103110425-221001-0004.sct
+Settings	sector	\EDXX-FIS.sct
 TeamSpeakVccs	Ts3DialogBottom	721
 TeamSpeakVccs	Ts3DialogLeft	119
 TeamSpeakVccs	Ts3DialogRight	1002
