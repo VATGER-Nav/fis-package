@@ -1,3 +1,5 @@
+// DE FIS Package
+
 Setup_COOPANS=1
 
 //4k-Settings - To activate delete this row and the "/" in following rows
@@ -37,8 +39,8 @@ Color_Active_Map_Type_3=168,164,165
 Color_Active_Map_Type_4=168,164,165
 Color_Active_Map_Type_5=168,164,165
 Color_Active_Map_Type_6=0,140,29
-Color_Active_Map_Type_12=168,164,165 //ED-R/LANTA
-Color_Active_Map_Type_13=168,164,165 //ED-D/ED-P
+Color_Active_Map_Type_12=80,80,255 //ED-R/LANTA
+Color_Active_Map_Type_13=80,80,255 //ED-D/ED-P
 Color_Active_RD_Infill_Map=255,0,0
 Color_Active_Sector=168,164,165
 Color_Active_Text_Map=134,134,135
@@ -48,7 +50,6 @@ Color_Assumed=0,0,0
 Color_Background=78,85,89
 Color_Border=51,51,52
 Color_BottomShadow=70,70,70
-Color_CARD_Conflict_Number=9,10,11
 Color_CARD_Mark_All=212,128,44
 Color_CARD_Mark_Own=212,128,44
 Color_CARD_Min_Sep=61,61,61
@@ -105,7 +106,6 @@ Color_Selected=61,121,148
 Color_Selected_Group=255,255,254
 Color_Selected_Period=255,255,41
 Color_Sid_Star_Allocation=34,139,34
-Color_Sid_Star_No_Allocation=255,120,0
 Color_Suite_Highlight=0,100,0
 Color_SMW_Level_Band=24,209,114
 Color_SMW_Overflight=254,152,1
@@ -137,7 +137,9 @@ Color_WM_Bg=88,95,99
 Color_WM_Border=88,95,99
 Color_WM_Fg=20,20,21
 Color_WM_Frame=88,95,99
-Color_VFR=55,156,255
+Color_VFR=0,0,255
+
+HTTP_AUP_URL=https://lara.vatsim.pt/api/areas/ED/
 
 Malrt_Misap=MAPP
 Malrt_Inbound_EST=EST
@@ -155,13 +157,20 @@ System_ASP_IasMach=30000
 System_MetarSourceVATSIM=1
 System_TaxiTime=8
 System_FPASD=0
+System_UseAUP=1
+
 System_GUI_Font_1_Size=10
 System_GUI_Font_2_Size=10
 System_GUI_Scale_Menus=0.9
 
+System_FIC_Position=1
+System_FIC_Position_Free_Filtered=1
+
+List_VFR_FPL_Filter=1
+List_VFR_FPL_Area=55.056,6.407,55.072,14.607,50.911,15.079,50.211,12.613,49.483,12.727,48.793,13.911,47.458,13.120,47.401,7.403,48.969,7.813,49.252,6.174,51.889,5.783,51.995,6.648,53.239,7.088,53.678,6.439
+
 Track_HistoryDots=5
 Track_PredictionLine=0
-Track_DivergenceSymbol_Size=8
 
 RwyAppLines_Length=20
 RwyAppLines_Markers=10
@@ -174,13 +183,11 @@ Label_Field18_Flag_Items=STS/,newbie,NEWBIE,Newbie,beginner,MSFS,msfs
 Label_Rev_Highlight_Delta_ETN=0
 Label_Alt_Digits=2
 Label_GS_Digits=2
-Label_All_N=0
 
 Areas_NOTAM_Activation=1
 Areas_Altitude_Filtering=1
 
 FPCP_HeadingTime=5
-FPCP_4D_PathBuffer=4000
 FPCP_PredictionTime=10
 
 Vector_AHDG_FontSize=11
@@ -249,9 +256,6 @@ Window_QNHTL=1,1570,45
 Window_FlightPlanSelect=1,400,44
 
 HTTP_SIGMET_Server=http://aviationweather.gov/
-HTTP_SIGMET_Page_Prefix=data/iffdp/
-HTTP_SIGMET_Pages=6443
-HTTP_SIGMET_Page_Suffix=.txt
 
 Shortcut_RadarMenu_Combo=0x00
 
@@ -261,63 +265,6 @@ CPDLC_CFL=1
 CPDLC_DCT=1
 CPDLC_AHDG=1
 CPDLC_ASP=1
-
-Label_Co_SQ=0
-Label_Co_ATYP=0
-Label_Co_ATYPW=0
-Label_Co_ADES=0
-Label_Co_NRAC=0
-Label_Co_TSSR=0
-Label_Co_RFL=0
-Label_Co_FCOPX=0
-Label_Co_WTC=0
-Label_Co_GS=0
-Label_Co_COPN=0
-Label_Co_XFL=0
-Label_Co_ASP=1
-Label_Co_PEL=1
-Label_Co_AHDG=0
-
-Label_Ass_SQ=0
-Label_Ass_ATYP=0
-Label_Ass_ATYPW=0
-Label_Ass_ADES=0
-Label_Ass_NRAC=0
-Label_Ass_TSSR=0
-Label_Ass_RFL=0
-Label_Ass_FCOPX=0
-Label_Ass_WTC=0
-Label_Ass_GS=0
-Label_Ass_COPX=0
-Label_Ass_XFL=0
-Label_Ass_ASP=1
-Label_Ass_AHDG=0
-
-Label_Red_SQ=0
-Label_Red_ATYP=0
-Label_Red_ATYPW=0
-Label_Red_ADES=0
-Label_Red_NRAC=0
-Label_Red_TSSR=0
-Label_Red_RFL=0
-Label_Red_FCOPX=0
-Label_Red_WTC=0
-Label_Red_GS=0
-Label_Red_COPX=0
-Label_Red_XFL=0
-Label_Red_ASP=1
-Label_Red_AHDG=0
-
-Label_No_SQ=0
-Label_No_ATYP=0
-Label_No_ATYPW=0
-Label_No_ADES=0
-Label_No_NRAC=0
-Label_No_TSSR=0
-Label_No_RFL=0
-Label_No_FCOPX=0
-Label_No_WTC=0
-Label_No_GS=0
 
 //***********************************************************************
 //                                 Station Settings
