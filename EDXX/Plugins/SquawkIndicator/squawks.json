@@ -26,7 +26,7 @@
       },
       {
          "code":"4454",
-         "message":"IDO",
+         "message":"IDN",
          "color":"#000000 "
       },
       {
@@ -52,6 +52,11 @@
       {
          "code":"7743",
          "message":"IDV",
+         "color":"#000000 "
+      },
+      {
+         "code":"7745",
+         "message":"IDW",
          "color":"#000000 "
       },
       {
