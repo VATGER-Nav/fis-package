@@ -55,6 +55,11 @@
          "color":"#000000 "
       },
       {
+         "code":"7745",
+         "message":"ISW",
+         "color":"#000000 "
+      },
+      {
          "code":"7000",
          "message":"V",
          "color":"#008000 "
