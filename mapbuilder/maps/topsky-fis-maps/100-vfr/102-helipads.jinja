@@ -1,0 +1,33 @@
+//---------------------------------------------------------------
+//                           Helipads
+//---------------------------------------------------------------
+
+MAP:Heliport Pads
+FOLDER:Helipads
+COLOR:standard
+{%- for name, geom in data.helipads['Helipads']['Helipads'].items() %}
+{{ geom | to_symbol('HPORT') }}
+{%- endfor %}
+{%- for name, geom in data.helipads['Helipads']['Helipads'].items() %}
+{{ geom | to_text(name)}}:0:13
+{%- endfor %}
+
+MAP:Hospital Pads
+FOLDER:Helipads
+COLOR:standard
+{%- for name, geom in data.helipads['Helipads']['Hospitals'].items() %}
+{{ geom | to_symbol('HOSPITAL') }}
+{%- endfor %}
+{%- for name, geom in data.helipads['Helipads']['Hospitals'].items() %}
+{{ geom | to_text(name)}}:0:13
+{%- endfor %}
+
+MAP:Offshore Pads
+FOLDER:Helipads
+COLOR:standard
+{%- for name, geom in data.helipads['Helipads']['Offshore'].items() %}
+{{ geom | to_symbol('HPORT') }}
+{%- endfor %}
+{%- for name, geom in data.helipads['Helipads']['Offshore'].items() %}
+{{ geom | to_text(name)}}:0:13
+{%- endfor %}

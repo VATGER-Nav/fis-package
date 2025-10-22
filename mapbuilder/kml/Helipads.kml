@@ -1,0 +1,2680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Helipads.kml</name>
+	<StyleMap id="default">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default0">
+	</Style>
+	<Style id="failed">
+	</Style>
+	<Style id="failed0">
+	</Style>
+	<StyleMap id="failed1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="hl">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<StyleMap id="mfailed">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>Helipads</name>
+		<open>1</open>
+		<Folder>
+			<name>Helipads</name>
+			<open>1</open>
+			<Placemark id="Helipads.400">
+				<name>Giessen Johanniter</name>
+				<Point>
+					<coordinates>8.6526311111111,50.5724,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.9">
+				<name>Diepenau Polipol</name>
+				<Point>
+					<coordinates>8.711944166666701,52.406389166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.21">
+				<name>Jadelinie</name>
+				<Point>
+					<coordinates>8.216835,53.217381111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.39">
+				<name>Bad Bramstedt</name>
+				<Point>
+					<coordinates>9.9032411111111,53.942852222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.49">
+				<name>Barsbuettel</name>
+				<Point>
+					<coordinates>10.197778055556,53.577222222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.53">
+				<name>Gifhorn Bundespolizei</name>
+				<Point>
+					<coordinates>10.510278055556,52.495278055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.58">
+				<name>Siblin</name>
+				<Point>
+					<coordinates>10.561944166667,54.035083055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.62">
+				<name>Neustadt Holstein</name>
+				<Point>
+					<coordinates>10.801389166667,54.1,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.67">
+				<name>Beverungen Nord</name>
+				<Point>
+					<coordinates>9.3813822222222,51.673944166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.68">
+				<name>Fuldatal Ihringhausen</name>
+				<Point>
+					<coordinates>9.5027441666667,51.35959999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.70">
+				<name>Harste</name>
+				<Point>
+					<coordinates>9.858874999999999,51.602661111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.72">
+				<name>Northeim Albert</name>
+				<Point>
+					<coordinates>9.9789461111111,51.730649166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.74">
+				<name>Abbenrode</name>
+				<Point>
+					<coordinates>10.625914166667,51.93169611111101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.75">
+				<name>Gross Kreutz</name>
+				<Point>
+					<coordinates>12.784725,52.410508055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.80">
+				<name>Hiddensee</name>
+				<Point>
+					<coordinates>13.106703055556,54.570997222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.82">
+				<name>Mellensee</name>
+				<Point>
+					<coordinates>13.379562222222,52.161675,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.84">
+				<name>Ahrensfelde</name>
+				<Point>
+					<coordinates>13.576,52.600239166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.88">
+				<name>Bad Saarow Helios</name>
+				<Point>
+					<coordinates>14.060333333333,52.284333333333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.89">
+				<name>Schwedt an der Oder Raffinerie</name>
+				<Point>
+					<coordinates>14.225186111111,53.09182222222199,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.106">
+				<name>Luckenwalde</name>
+				<Point>
+					<coordinates>13.183584166667,52.099179166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.107">
+				<name>Teupitz Asklepios</name>
+				<Point>
+					<coordinates>13.632694166667,52.122139166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.109">
+				<name>Angermuende</name>
+				<Point>
+					<coordinates>14.001644166667,52.99970611111101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.113">
+				<name>Sommerland</name>
+				<Point>
+					<coordinates>9.549444444444401,53.792444444444,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.123">
+				<name>Helgoland Suedhafen</name>
+				<Point>
+					<coordinates>7.8900172222222,54.175111111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.131">
+				<name>Niebuell</name>
+				<Point>
+					<coordinates>8.845000000000001,54.793972222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.137">
+				<name>Barleben</name>
+				<Point>
+					<coordinates>11.606872222222,52.19027999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.142">
+				<name>Bad Doberan</name>
+				<Point>
+					<coordinates>11.906292222222,54.090067222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.144">
+				<name>Hohe Duene</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>12.102008232788,54.17881866630557,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.147">
+				<name>Dummerstorf</name>
+				<Point>
+					<coordinates>12.210753055556,54.03835,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.154">
+				<name>Altenweddingen</name>
+				<Point>
+					<coordinates>11.509772222222,52.00954111111101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.156">
+				<name>Immenstadt EADS GMBH</name>
+				<Point>
+					<coordinates>9.391441111111099,47.669672222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.157">
+				<name>Kempten Durach</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>10.340142222222,47.691372222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.159">
+				<name>Kisslegg</name>
+				<Point>
+					<coordinates>9.891925000000001,47.76883305555601,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.174">
+				<name>Hildburghausen Helios</name>
+				<Point>
+					<coordinates>10.747614166667,50.42895000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.175">
+				<name>Nordhausen</name>
+				<Point>
+					<coordinates>10.794835,51.513801111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.178">
+				<name>Donauwoerth</name>
+				<Point>
+					<coordinates>10.769259166667,48.707485,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.180">
+				<name>Roth</name>
+				<Point>
+					<coordinates>11.100125,49.217347222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.182">
+				<name>Hiloplstein</name>
+				<Point>
+					<coordinates>11.184764166667,49.18535,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.183">
+				<name>Dippenricht</name>
+				<Point>
+					<coordinates>11.363626111111,49.25367611111101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.190">
+				<name>Ottobrunn</name>
+				<Point>
+					<coordinates>11.653674166667,48.04811500000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.191">
+				<name>Roding Firma Muehlbauer</name>
+				<Point>
+					<coordinates>12.502803055556,49.218403055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.192">
+				<name>Roding Dachlandeplatz</name>
+				<Point>
+					<coordinates>12.505181111111,49.215297222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.198">
+				<name>Metten</name>
+				<Point>
+					<coordinates>12.935,48.859667222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.205">
+				<name>Berchtesgaden Resort</name>
+				<Point>
+					<coordinates>13.046752222222,47.634595,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.207">
+				<name>Oberschleissheim</name>
+				<Point>
+					<coordinates>11.565418055556,48.23794916666699,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.214">
+				<name>Pullenreuth</name>
+				<Point>
+					<coordinates>11.992333333333,49.91061111111101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.218">
+				<name>Waldsassen</name>
+				<Point>
+					<coordinates>12.316267222222,50.010378055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.219">
+				<name>Pegnitz</name>
+				<Point>
+					<coordinates>11.624267222222,49.763906111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.220">
+				<name>Mistelgau</name>
+				<Point>
+					<coordinates>11.464167222222,49.906111111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.222">
+				<name>Aerodynamic Iberler</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>11.34719573282576,49.20656871764831,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.224">
+				<name>Roehrsdorf</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>12.86406688646703,50.86250547844833,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.230">
+				<name>Elbepark</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>13.69417206907743,51.08301186199775,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.234">
+				<name>Senftenberg Ackerstraße</name>
+				<Point>
+					<coordinates>13.988211111111,51.53065305555601,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.238">
+				<name>Spremberg</name>
+				<Point>
+					<coordinates>14.407,51.56898,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.245">
+				<name>Oggenhausen</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>10.22976112285627,48.66940583507769,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.248">
+				<name>Ellenberg Schweizerhof</name>
+				<Point>
+					<coordinates>10.209366111111,48.99218999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.249">
+				<name>Dinkelsbuehl</name>
+				<Point>
+					<coordinates>10.401581111111,49.065944166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.265">
+				<name>Schoeneck Paracelsus</name>
+				<Point>
+					<coordinates>12.335964166667,50.397783055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.270">
+				<name>Zwickau Heinrich Braun</name>
+				<Point>
+					<coordinates>12.429208055556,50.719919166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.274">
+				<name>FA Ulrich Altner</name>
+				<Point>
+					<coordinates>12.649067222222,51.246014166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.284">
+				<name>Polizei Zimmern o. R.</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>8.574870000000001,48.173511111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.285">
+				<name>Norddach Firma Junker</name>
+				<Point>
+					<coordinates>8.072303055555601,48.391028055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.287">
+				<name>Bruchsal</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>8.564810136011804,49.12059619884477,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.290">
+				<name>St. Wendel Golfhotel</name>
+				<Point>
+					<coordinates>7.1387111111111,49.474894166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.300">
+				<name>Braeunlingen Firma Straub</name>
+				<Point>
+					<coordinates>8.461824999999999,47.927725,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.315">
+				<name>Muelhausen</name>
+				<Point>
+					<coordinates>8.8215172222222,47.805763055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.317">
+				<name>Burladingen Firma Trigema</name>
+				<Point>
+					<coordinates>9.106745,48.287656111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.319">
+				<name>Reutlingen Betzingen</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>9.154513055555601,48.491522222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.324">
+				<name>Pfronstettenaichelau</name>
+				<Point>
+					<coordinates>9.394447222222199,48.288439166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.337">
+				<name>Kalkar</name>
+				<Point>
+					<coordinates>6.3226441666667,51.764617222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.339">
+				<name>Goennersdorf am Achelshof</name>
+				<Point>
+					<coordinates>6.582499999999999,50.327,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.352">
+				<name>Grafschaft Haribo</name>
+				<Point>
+					<coordinates>7.0894672222222,50.576917222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.357">
+				<name>Zuerburgring Hotel</name>
+				<Point>
+					<coordinates>6.9430561111111,50.33111111111101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.365">
+				<name>Dattenberg Firma SP</name>
+				<Point>
+					<coordinates>7.3028030555556,50.557397222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.366">
+				<name>Leubsdorf</name>
+				<Point>
+					<coordinates>7.3144444444444,50.544444444444,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.367">
+				<name>Ennepetal Oelklinghausen</name>
+				<Point>
+					<coordinates>7.32863,51.292594166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.369">
+				<name>DHD Heliservice</name>
+				<Point>
+					<coordinates>7.424176111111101,50.353252222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.370">
+				<name>Saffig</name>
+				<Point>
+					<coordinates>7.430811111111099,50.37413305555599,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.377">
+				<name>Boppard Jakobsberg</name>
+				<Point>
+					<coordinates>7.595819166666701,50.256318055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.379">
+				<name>Ahlen Nord</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>7.9096561111111,51.783652222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.383">
+				<name>Lintel</name>
+				<Point>
+					<coordinates>8.363754999999999,51.838646111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.388">
+				<name>Stukenbrock</name>
+				<styleUrl>#failed1</styleUrl>
+				<Point>
+					<coordinates>8.676124696819334,51.86435855118139,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.390">
+				<name>Oerlinghausen</name>
+				<Point>
+					<coordinates>8.647324166666699,51.945301111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.392">
+				<name>Burgholzhausen Rotorflug</name>
+				<Point>
+					<coordinates>8.6663333333333,50.264333333333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.404">
+				<name>Sindelfingen Daimler AG</name>
+				<Point>
+					<coordinates>8.985644166666701,48.692888888889,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.407">
+				<name>Untertuerkheim Daimler AG</name>
+				<Point>
+					<coordinates>9.2397722222222,48.782047222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.409">
+				<name>Gerlingen Firma Bosch</name>
+				<Point>
+					<coordinates>9.0628530555556,48.78537805555601,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.412">
+				<name>Schwieberdingen Bosch</name>
+				<Point>
+					<coordinates>9.0820161111111,48.88369999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.419">
+				<name>Obersoellbach Firma Helix</name>
+				<Point>
+					<coordinates>9.558544166666699,49.18409722222201,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.421">
+				<name>Oedheim</name>
+				<Point>
+					<coordinates>9.234405000000001,49.241479166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.425">
+				<name>Iphofen Firma Knauf</name>
+				<Point>
+					<coordinates>10.282436111111,49.694861111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.430">
+				<name>Hammelburg Unterer Thal</name>
+				<Point>
+					<coordinates>9.875769999999999,50.15717305555599,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.435">
+				<name>Seitenbacher</name>
+				<Point>
+					<coordinates>9.340917222222201,49.5282,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Offshore</name>
+			<Placemark id="Helipads.86">
+				<name>A01 OSS</name>
+				<Point>
+					<coordinates>13.677125,54.817469166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.104">
+				<name>WK OSS</name>
+				<Point>
+					<coordinates>14.074274166667,54.83437805555599,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.105">
+				<name>Arkona</name>
+				<Point>
+					<coordinates>14.098206111111,54.78682499999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.115">
+				<name>BKRZ01 Windfarm</name>
+				<Point>
+					<coordinates>6.565667222222201,53.964167222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.116">
+				<name>Dolwin Beta</name>
+				<Point>
+					<coordinates>6.9234922222222,53.978206111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.117">
+				<name>Nordsee One</name>
+				<Point>
+					<coordinates>6.836217222222201,53.98225,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.118">
+				<name>Alpha Ventus</name>
+				<Point>
+					<coordinates>6.6233172222222,53.999983055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.119">
+				<name>FINO1</name>
+				<Point>
+					<coordinates>6.587667222222199,54.014333333333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.120">
+				<name>GOW01Z01</name>
+				<Point>
+					<coordinates>7.008792222222199,54.024821111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.121">
+				<name>Merkur</name>
+				<Point>
+					<coordinates>6.5609530555556,54.03735,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.122">
+				<name>GOW02Z01</name>
+				<Point>
+					<coordinates>7.0383780555556,54.055717222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.125">
+				<name>M00</name>
+				<Point>
+					<coordinates>7.699711111111101,54.399311111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.126">
+				<name>Helwin Alpha</name>
+				<Point>
+					<coordinates>7.7399641666667,54.452125,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.128">
+				<name>Amrumbank</name>
+				<Point>
+					<coordinates>7.7348922222222,54.519911111111,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Hospitals</name>
+			<open>1</open>
+			<Placemark id="Helipads.1">
+				<name>Hamelnpyrmont Sana</name>
+				<Point>
+					<coordinates>9.3509722222222,52.108333333333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.2">
+				<name>Bad Oeynhausen</name>
+				<Point>
+					<coordinates>8.795357222222201,52.192496111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.6">
+				<name>Ibbenbueren</name>
+				<Point>
+					<coordinates>7.7144072222222,52.278041111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.5">
+				<name>Rheine LRZ</name>
+				<Point>
+					<coordinates>7.4333333333333,52.27722222222201,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.3">
+				<name>Schaumburg Ev. Klinikum</name>
+				<Point>
+					<coordinates>9.1036111111111,52.265556111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.4">
+				<name>Osnabrueck Marienhospital</name>
+				<Point>
+					<coordinates>8.0557730555556,52.269987222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.7">
+				<name>Osnabrueck Klinikum</name>
+				<Point>
+					<coordinates>8.004722222222201,52.278056111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.8">
+				<name>Luebbecke Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>8.60233,52.296095,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.10">
+				<name>Thuine Elisabeth Krankenhaus</name>
+				<Point>
+					<coordinates>7.4891111111111,52.497306111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.11">
+				<name>Damme Krankenhaus</name>
+				<Point>
+					<coordinates>8.193585000000001,52.520969166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.12">
+				<name>Lingen St. Bonifatius</name>
+				<Point>
+					<coordinates>7.3149061111111,52.52511722222199,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.13">
+				<name>Nienburg Klinikum</name>
+				<Point>
+					<coordinates>9.2251941666667,52.63541111111099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.14">
+				<name>Meppen Ludmillenstift</name>
+				<Point>
+					<coordinates>7.2933333333333,52.688611111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.15">
+				<name>Bremen Links der Weser</name>
+				<Point>
+					<coordinates>8.816944166666699,53.035278055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.16">
+				<name>Bremen Mitte</name>
+				<Point>
+					<coordinates>8.8379441666667,53.075,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.17">
+				<name>Rotenburg West Krankenhaus</name>
+				<Point>
+					<coordinates>9.411667222222199,53.105278055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.18">
+				<name>Oldenburg Klinikum</name>
+				<Point>
+					<coordinates>8.219819166666699,53.112614166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.19">
+				<name>Oldenburg Ev. Krankenhaus</name>
+				<Point>
+					<coordinates>8.204389166666701,53.142833055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.20">
+				<name>Bremen-Nord Klinikum</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>8.593889166666701,53.182778055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.23">
+				<name>Westerstede</name>
+				<Point>
+					<coordinates>7.9160280555556,53.257667222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.22">
+				<name>Leer Klinikum</name>
+				<Point>
+					<coordinates>7.457517222222201,53.23630222222199,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.24">
+				<name>Emden Hanssusemihl Krankenhaus</name>
+				<Point>
+					<coordinates>7.2141380555556,53.374696111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.25">
+				<name>Wesermarschklinik</name>
+				<Point>
+					<coordinates>8.441114166666701,53.45504,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.26">
+				<name>Sanderbusch Nordwestkrankenhaus</name>
+				<Point>
+					<coordinates>8.008611111111099,53.505833055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.27">
+				<name>Bremerhaven Klinikum</name>
+				<Point>
+					<coordinates>8.635436111111099,53.53765611111099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.28">
+				<name>Wilhelmshaven Klinikum</name>
+				<Point>
+					<coordinates>8.0805561111111,53.544444444444,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.29">
+				<name>Stade Elbe Klinikum</name>
+				<Point>
+					<coordinates>9.4443611111111,53.594806111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.30">
+				<name>Papenburg Marienkrankenhaus</name>
+				<Point>
+					<coordinates>7.3930561111111,53.07416722222201,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.31">
+				<name>Neustadt RB Klinikum</name>
+				<Point>
+					<coordinates>9.4636941666667,52.494389166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.32">
+				<name>Wittmund Krankenhaus</name>
+				<Point>
+					<coordinates>7.7890830555556,53.571389166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.33">
+				<name>Hannover Nordstadt Klinikum</name>
+				<Point>
+					<coordinates>9.7155561111111,52.392222222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.34">
+				<name>Hannover Klinikum</name>
+				<Point>
+					<coordinates>9.7252311111111,52.359253055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.35">
+				<name>Kinderkrankenhaus auf der Bult</name>
+				<Point>
+					<coordinates>9.7793672222222,52.360583055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.36">
+				<name>Hannover Medhochschule</name>
+				<Point>
+					<coordinates>9.8065922222222,52.384697222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.38">
+				<name>Buchholz Nordheide</name>
+				<Point>
+					<coordinates>9.870389166666699,53.333639166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.37">
+				<name>Soltau Krankenhaus</name>
+				<Point>
+					<coordinates>9.8550561111111,52.989556111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.40">
+				<name>Hamburg Altona</name>
+				<Point>
+					<coordinates>9.9127780555556,53.55222222222199,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.41">
+				<name>Hamburg Eppendorf</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>9.9738891666667,53.591389166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.42">
+				<name>Neumuenster Friedrich Ebert</name>
+				<Point>
+					<coordinates>9.990449999999999,54.06506111111099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.44">
+				<name>Hamburg Barmbek</name>
+				<Point>
+					<coordinates>10.036667222222,53.60694416666699,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.43">
+				<name>Hamburg Asklepios Klinik</name>
+				<Point>
+					<coordinates>10.016944166667,53.560833055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.46">
+				<name>Celle</name>
+				<Point>
+					<coordinates>10.084969166667,52.628778055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.45">
+				<name>Hamburg Bundeswehrkrankenhaus</name>
+				<Point>
+					<coordinates>10.077808055556,53.596881111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.47">
+				<name>Kiel Uniklinikum</name>
+				<Point>
+					<coordinates>10.142778055556,54.33125,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.48">
+				<name>Hamburg Klinikum</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>10.173333333333,53.508056111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.51">
+				<name>Geesthacht</name>
+				<Point>
+					<coordinates>10.385517222222,53.431803055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.50">
+				<name>Peine Klinikum</name>
+				<Point>
+					<coordinates>10.237916111111,52.302375,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.52">
+				<name>Lueneburg Staedt Klinikum</name>
+				<Point>
+					<coordinates>10.396111111111,53.240556111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.54">
+				<name>Uelzen Klinikum</name>
+				<Point>
+					<coordinates>10.532778055556,52.973333333333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.56">
+				<name>Braunschweid Salzdahlemer Straße</name>
+				<Point>
+					<coordinates>10.546389166667,52.238056111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.55">
+				<name>Wolfenbuettel Staedt Krankenhaus</name>
+				<Point>
+					<coordinates>10.534444444444,52.179167222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.57">
+				<name>Gifhorn Klinikum</name>
+				<Point>
+					<coordinates>10.549444444444,52.496111111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.60">
+				<name>Uniklinik SH</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>10.70716118438458,53.83434972019494,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.61">
+				<name>Wolfsburg Klinikum</name>
+				<Point>
+					<coordinates>10.768666666667,52.41219611111099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.63">
+				<name>Helmstedt Helios Klinik</name>
+				<Point>
+					<coordinates>11.000556111111,52.231389166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.64">
+				<name>Winsen Luhe Krankenhaus</name>
+				<Point>
+					<coordinates>10.199261111111,53.348603055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.65">
+				<name>Hamburg Harburg</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>9.9507930555556,53.45976,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.66">
+				<name>Hildesheim Helios</name>
+				<Point>
+					<coordinates>9.9784391666667,52.150564166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.69">
+				<name>Hann Muenden Klinik</name>
+				<Point>
+					<coordinates>9.658333333333299,51.39750000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.71">
+				<name>Goettingen Klinikum</name>
+				<Point>
+					<coordinates>9.943056111111099,51.551944166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.73">
+				<name>Heiligenstadt Heilbad</name>
+				<Point>
+					<coordinates>10.14065,51.37685,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.76">
+				<name>Nauen Havelland Klink</name>
+				<Point>
+					<coordinates>12.874444444444,52.59805611111101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.77">
+				<name>Demmin</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>13.04149947892243,53.9012190259199,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.78">
+				<name>Potsdam Ernst v. Bergmann</name>
+				<Point>
+					<coordinates>13.065556111111,52.400278055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.79">
+				<name>Stralsund</name>
+				<Point>
+					<coordinates>13.081219166667,54.32995805555599,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.81">
+				<name>Charite Benjamin Franklin</name>
+				<Point>
+					<coordinates>13.322856111111,52.441342222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.83">
+				<name>Berlin Buch</name>
+				<Point>
+					<coordinates>13.510301111111,52.630034166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.85">
+				<name>Kalrsburg</name>
+				<Point>
+					<coordinates>13.610696111111,53.970074166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.87">
+				<name>Pasewalk</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>13.98772969088038,53.48887273307064,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.90">
+				<name>Schwedt an der Oder Klinikum</name>
+				<Point>
+					<coordinates>14.276086111111,53.053597222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.91">
+				<name>Frankfurt an der Oder Klinikum</name>
+				<Point>
+					<coordinates>14.480397222222,52.300831111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.92">
+				<name>Achenbachkrankenhaus</name>
+				<Point>
+					<coordinates>13.62788,52.304683055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.93">
+				<name>Greifswald Unimedizin</name>
+				<Point>
+					<coordinates>13.40801,54.08885,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.94">
+				<name>Berlin Unfallkrankenhaus</name>
+				<Point>
+					<coordinates>13.567753055556,52.51964,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.95">
+				<name>Charite Virchowklinikum</name>
+				<Point>
+					<coordinates>13.338383055556,52.54264722222201,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.96">
+				<name>Eberswalde Krankenhaus</name>
+				<Point>
+					<coordinates>13.790278055556,52.828333333333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.97">
+				<name>Bernau Krankenhaus</name>
+				<Point>
+					<coordinates>13.581389166667,52.683889166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.98">
+				<name>Eisenhuettenstadt Staedt Krankenhaus</name>
+				<Point>
+					<coordinates>14.623162222222,52.140588055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.99">
+				<name>Luebben Spreewaldklinik</name>
+				<Point>
+					<coordinates>13.873862222222,51.943257222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.100">
+				<name>Neubrandenburg Klinikum</name>
+				<Point>
+					<coordinates>13.291048055556,53.544883055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.101">
+				<name>Berlin Humboldtkrankenhaus</name>
+				<Point>
+					<coordinates>13.308449166667,52.590416111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.102">
+				<name>Neustrelitz LRZ</name>
+				<Point>
+					<coordinates>13.052002222222,53.382008055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.103">
+				<name>Neuruppin Ruppiner Kliniken</name>
+				<Point>
+					<coordinates>12.796131111111,52.903889166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.108">
+				<name>Prenzlau Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>13.866278055556,53.333889166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.110">
+				<name>Torgau Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>12.983611111111,51.56127805555601,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.111">
+				<name>Cottbus Carlthiemklinikum</name>
+				<Point>
+					<coordinates>14.321944166667,51.743333333333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.112">
+				<name>Herzberg Klinikum</name>
+				<Point>
+					<coordinates>13.206928055556,51.686054166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.114">
+				<name>Itzehoe Klinikum</name>
+				<Point>
+					<coordinates>9.50325,53.942192222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.124">
+				<name>Heide Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>9.0801861111111,54.200161111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.127">
+				<name>Husum Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>9.0484530555556,54.483208055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.129">
+				<name>Schleswig Helios Klinikum</name>
+				<Point>
+					<coordinates>9.5695972222222,54.521978055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.130">
+				<name>Flensburg</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>9.425457114859499,54.79079471140408,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.132">
+				<name>Borkum Inselkrankenhaus</name>
+				<Point>
+					<coordinates>6.6701311111111,53.58488500000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.133">
+				<name>Gardelegen Krankenhaus</name>
+				<Point>
+					<coordinates>11.380333333333,52.523,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.134">
+				<name>Schwerin Klinikum</name>
+				<Point>
+					<coordinates>11.406831111111,53.652639166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.135">
+				<name>Wismar Staedt Krankenhaus</name>
+				<Point>
+					<coordinates>11.439583055556,53.88336111111101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.136">
+				<name>Magdeburg Klinikum</name>
+				<Point>
+					<coordinates>11.5845,52.1585,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.139">
+				<name>Magdeburg Universität</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>11.61630328416017,52.10279367555925,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.140">
+				<name>Stendal Johanniterkrankenhaus</name>
+				<Point>
+					<coordinates>11.853833055556,52.611694166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.141">
+				<name>Perleberg Kreiskrankenhaus Prignitz</name>
+				<Point>
+					<coordinates>11.874992222222,53.074143055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.143">
+				<name>Rostock Unimedizin</name>
+				<Point>
+					<coordinates>12.10163,54.08513,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.146">
+				<name>Guestrow Klinikum</name>
+				<Point>
+					<coordinates>12.199444444444,53.811944166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.145">
+				<name>Rostock Suedstadt</name>
+				<Point>
+					<coordinates>12.107546111111,54.070573055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.150">
+				<name>BB Asklepios</name>
+				<Point>
+					<coordinates>12.481528055556,52.425,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.148">
+				<name>Plau am See Fachkrankenhaus</name>
+				<Point>
+					<coordinates>12.285569166667,53.478081111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.149">
+				<name>Kyritz Klinikum</name>
+				<Point>
+					<coordinates>12.388786111111,52.948081111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.151">
+				<name>Brandenburg Klinikum</name>
+				<Point>
+					<coordinates>12.544233055556,52.415173055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.152">
+				<name>Teterow Krankenhaus</name>
+				<Point>
+					<coordinates>12.570556111111,53.777778055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.153">
+				<name>Bad Belzig Johanniterkrankenhaus</name>
+				<Point>
+					<coordinates>12.598194166667,52.140864166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.155">
+				<name>Coswig Mediclin Herzzentrum</name>
+				<Point>
+					<coordinates>12.476222222222,51.878306111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.158">
+				<name>Kempten Allgaeu Klinikum</name>
+				<Point>
+					<coordinates>10.302556111111,47.731881111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.160">
+				<name>Ravensburg St. Elisabeth</name>
+				<Point>
+					<coordinates>9.6210291666667,47.787972222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.161">
+				<name>Klinikum Weissenhorn</name>
+				<Point>
+					<coordinates>10.156764166667,48.312122222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.162">
+				<name>Ulm Uniklinikum</name>
+				<Point>
+					<coordinates>9.951389166666701,48.4225,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.163">
+				<name>BWK Ulm</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>9.946547413070864,48.4256705765975,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.164">
+				<name>Friedrichshafen Klinikum</name>
+				<Point>
+					<coordinates>9.42855,47.672767222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.165">
+				<name>Ehingen Gesundheitszentrum</name>
+				<Point>
+					<coordinates>9.71917,48.27916999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.166">
+				<name>Tettnang Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>9.598281111111101,47.671667222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.167">
+				<name>Immenstadt Klinikum</name>
+				<Point>
+					<coordinates>10.228111111111,47.561569166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.168">
+				<name>Guenzburg Bezirkskrankenhaus</name>
+				<Point>
+					<coordinates>10.291178055556,48.456289166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.169">
+				<name>Memmingen Klinikum</name>
+				<Point>
+					<coordinates>10.168769166667,47.982647222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.171">
+				<name>Biberach an der Riss Sana Kliniken</name>
+				<Point>
+					<coordinates>9.7793391666667,48.113103055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.172">
+				<name>Gotha Helios Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>10.678889166667,50.92888916666701,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.173">
+				<name>Suhl SRH Zentralklinikum</name>
+				<Point>
+					<coordinates>10.710386111111,50.603042222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.176">
+				<name>Arnstedt Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>10.94075,50.839472222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.177">
+				<name>Erfurt Helios Klinikum</name>
+				<Point>
+					<coordinates>11.012047222222,50.994328055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.179">
+				<name>Nürnberg Nord</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>11.062536111111,49.46316916666699,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.181">
+				<name>Garmisch Partenkirchen Klinikum</name>
+				<Point>
+					<coordinates>11.128996111111,47.484378055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.187">
+				<name>Muenchen Sued</name>
+				<Point>
+					<coordinates>11.548333333333,48.103028055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.184">
+				<name>Ingolstadt Klinikum</name>
+				<Point>
+					<coordinates>11.372556111111,48.77047222222199,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.185">
+				<name>Dachau Klinikum</name>
+				<Point>
+					<coordinates>11.429333333333,48.265667222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.186">
+				<name>Bayreuth Klinikum</name>
+				<Point>
+					<coordinates>11.535556111111,49.944444444444,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.188">
+				<name>Deutsches Herzzentrum</name>
+				<Point>
+					<coordinates>11.548348055556,48.15269499999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.189">
+				<name>Muenchen Krankenhaus Harlaching</name>
+				<Point>
+					<coordinates>11.5599,48.08355000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.193">
+				<name>Straubing St. Elisabeth</name>
+				<Point>
+					<coordinates>12.590786111111,48.885917222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.194">
+				<name>Deggendorf Donauisar</name>
+				<Point>
+					<coordinates>12.970869166667,48.839261111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.195">
+				<name>FFB Kreisklinik</name>
+				<Point>
+					<coordinates>11.259064166667,48.18047222222201,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.196">
+				<name>Klinikum Grosshardern</name>
+				<Point>
+					<coordinates>11.465331111111,48.11054611111101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.199">
+				<name>Klinikum Bogenhausen</name>
+				<Point>
+					<coordinates>11.626172222222,48.154307222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.200">
+				<name>BGU Murnau</name>
+				<Point>
+					<coordinates>11.215546111111,47.672075,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.201">
+				<name>Traunstein Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>12.631111111111,47.87416722222201,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.202">
+				<name>Ebersberg Kreisklinik</name>
+				<Point>
+					<coordinates>11.958539166667,48.081242222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.197">
+				<name>Regensburg Universität</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>12.09272809827116,48.98729280364415,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.204">
+				<name>Agatharied Krankenhaus</name>
+				<Point>
+					<coordinates>11.828333333333,47.768333333333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.206">
+				<name>Vogtareuth Schoen Klinik</name>
+				<Point>
+					<coordinates>12.188985,47.946761111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.208">
+				<name>Schwabing Staedt</name>
+				<Point>
+					<coordinates>11.577546111111,48.170957222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.209">
+				<name>Rosenheim Klinikum</name>
+				<Point>
+					<coordinates>12.132254166667,47.860411111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.210">
+				<name>Viechtach Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>12.874122222222,49.085581111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.211">
+				<name>Passau Kinikum</name>
+				<Point>
+					<coordinates>13.444722222222,48.56361111111101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.212">
+				<name>Fuessen Klinikum</name>
+				<Point>
+					<coordinates>10.707063055556,47.566943055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.213">
+				<name>Muenchen RD Isar</name>
+				<Point>
+					<coordinates>11.600694166667,48.13602611111101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.215">
+				<name>Amberg Klinikum St. Marien</name>
+				<Point>
+					<coordinates>11.866889166667,49.448375,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.216">
+				<name>Weiden Klinikum</name>
+				<Point>
+					<coordinates>12.166389166667,49.681797222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.217">
+				<name>Lichtenfels Klinikum</name>
+				<Point>
+					<coordinates>11.081583055556,50.13886111111099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.221">
+				<name>Erlangen Uniklinikum</name>
+				<Point>
+					<coordinates>11.011132222222,49.600066111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.223">
+				<name>Augsburg Klinikum</name>
+				<Point>
+					<coordinates>10.837767222222,48.3845,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.225">
+				<name>Oschatz Collmklinik</name>
+				<Point>
+					<coordinates>13.114017222222,51.291816111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.226">
+				<name>Freiberg Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>13.351904166667,50.920266111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.227">
+				<name>Elsterwerda Krankenhaus</name>
+				<Point>
+					<coordinates>13.522164166667,51.455623055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.228">
+				<name>Coswig Fachkrankenhaus</name>
+				<Point>
+					<coordinates>13.593103055556,51.131879166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.229">
+				<name>Freital Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>13.645465,50.991822222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.231">
+				<name>Dresden Uniklinikum</name>
+				<Point>
+					<coordinates>13.78,51.0575,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.232">
+				<name>Lausitzring MC</name>
+				<Point>
+					<coordinates>13.924511111111,51.53191722222199,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.233">
+				<name>Pirna Klinikum</name>
+				<Point>
+					<coordinates>13.952425,50.958611111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.235">
+				<name>Senftenberg Klinikbereich</name>
+				<Point>
+					<coordinates>14.000456111111,51.528036111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.236">
+				<name>Sebnitz Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>14.268333333333,50.982778055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.237">
+				<name>Lausitzer Seenland</name>
+				<Point>
+					<coordinates>14.273544166667,51.442294166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.239">
+				<name>Bautzen Krankenhaus</name>
+				<Point>
+					<coordinates>14.430389166667,51.185056111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.240">
+				<name>Goerlitz Staedt Klinikum</name>
+				<Point>
+					<coordinates>14.969667222222,51.161122222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.241">
+				<name>Friedrichstadt Krankenhaus</name>
+				<Point>
+					<coordinates>13.716089166667,51.058417222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.242">
+				<name>Zschopau Klinikum</name>
+				<Point>
+					<coordinates>13.080003055556,50.733794166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.243">
+				<name>Elblandkliniken</name>
+				<Point>
+					<coordinates>13.505833055556,51.175,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.244">
+				<name>Chemnitz Klinikum</name>
+				<Point>
+					<coordinates>12.885267222222,50.84571416666699,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.246">
+				<name>Heidenheim Klinikum</name>
+				<Point>
+					<coordinates>10.138864166667,48.672731111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.247">
+				<name>Aalen Ostalbklinikum</name>
+				<Point>
+					<coordinates>10.085763055556,48.84982305555601,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.253">
+				<name>Weimar Sophien Hufeland</name>
+				<Point>
+					<coordinates>11.322025,50.960775,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.250">
+				<name>Sonneberg Regiomed Klinik</name>
+				<Point>
+					<coordinates>11.162256111111,50.35401916666699,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.252">
+				<name>Sangerhausen Krankenhaus</name>
+				<Point>
+					<coordinates>11.309683055556,51.47155,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.254">
+				<name>Saalfeld Klinikum</name>
+				<Point>
+					<coordinates>11.342111111111,50.643939166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.255">
+				<name>Eisleben Helios</name>
+				<Point>
+					<coordinates>11.540917222222,51.53363916666699,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.256">
+				<name>Jena Klinikum</name>
+				<Point>
+					<coordinates>11.619167222222,50.886667222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.257">
+				<name>Bernburg Klinikum</name>
+				<Point>
+					<coordinates>11.735,51.781667222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.258">
+				<name>Halledoelau Staedt Krankenhaus</name>
+				<Point>
+					<coordinates>11.88,51.503889166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.259">
+				<name>Kroellwitz Uni</name>
+				<Point>
+					<coordinates>11.9355,51.50099999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.260">
+				<name>Wiessenfels Asklepios</name>
+				<Point>
+					<coordinates>11.955411111111,51.193658055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.261">
+				<name>Halle Elisabeth und Barbara</name>
+				<Point>
+					<coordinates>11.968889166667,51.477222222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.262">
+				<name>Halle Berufsgen. Kliniken</name>
+				<Point>
+					<coordinates>11.987694166667,51.460553055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.263">
+				<name>Schkeuditz ADAC LRZ</name>
+				<Point>
+					<coordinates>12.1925,51.351111111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.264">
+				<name>Dessau Staedt Klinikum</name>
+				<Point>
+					<coordinates>12.197283055556,51.815883055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.266">
+				<name>Leipzig Staedt</name>
+				<Point>
+					<coordinates>12.37593,51.38321222222199,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.269">
+				<name>Leipzig Universität</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>12.38786586720999,51.32963134166484,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.267">
+				<name>Leipzig St. Elisabethkrankenhaus</name>
+				<Point>
+					<coordinates>12.378737222222,51.30347111111099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.272">
+				<name>Leipzig Herzzentrum</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>12.43612486609518,51.30676367894853,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.273">
+				<name>Borna Sana Klinikum</name>
+				<Point>
+					<coordinates>12.506517222222,51.135486111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.277">
+				<name>Bad Berka</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>11.26515965108417,50.88988678116069,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.275">
+				<name>Erlabrunn Kliniken</name>
+				<Point>
+					<coordinates>12.707056111111,50.471833055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.276">
+				<name>AUE Helios Klinikum</name>
+				<Point>
+					<coordinates>12.716111111111,50.593056111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.278">
+				<name>Loerrach Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>7.6589,47.61438416666699,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.279">
+				<name>Schwarzwaldbaar Klinikum</name>
+				<Point>
+					<coordinates>8.4807272222222,47.95602000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.282">
+				<name>Freiburg Uniklinikum</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>7.839782276985165,48.00715485567729,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.280">
+				<name>Freiburg St. Josefskrankenhaus</name>
+				<Point>
+					<coordinates>7.8519230555556,48.001566111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.283">
+				<name>Rottweil Helios Klinik</name>
+				<Point>
+					<coordinates>8.61126,48.165165,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.286">
+				<name>Freudenstadt Krankenhaus</name>
+				<Point>
+					<coordinates>8.40455,48.47691722222199,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.288">
+				<name>Saarbruecken</name>
+				<Point>
+					<coordinates>6.9986891666667,49.222261111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.289">
+				<name>KL Westpfalz Klinikum</name>
+				<Point>
+					<coordinates>7.7569280555556,49.44168305555599,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.291">
+				<name>BGU Ludwigshafen</name>
+				<Point>
+					<coordinates>8.3891672222222,49.486389166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.292">
+				<name>Mannheim Theresienkrankenhaus</name>
+				<Point>
+					<coordinates>8.4813672222222,49.489394166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.293">
+				<name>Ludwigshafen</name>
+				<Point>
+					<coordinates>8.424722222222201,49.49111111111101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.297">
+				<name>Karlsruhe Staedt</name>
+				<Point>
+					<coordinates>8.3748280555556,49.018365,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.294">
+				<name>Gruenstadt Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>8.158333333333299,49.563167222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.295">
+				<name>Worms Klinikum</name>
+				<Point>
+					<coordinates>8.321111111111099,49.648611111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.296">
+				<name>Rottweil Krankenhaus</name>
+				<Point>
+					<coordinates>8.6361111111111,48.149444444444,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.298">
+				<name>Klinik Bruchsal</name>
+				<Point>
+					<coordinates>8.6027780555556,49.132222222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.299">
+				<name>Zentralklinikum Villingen Schwenningen</name>
+				<Point>
+					<coordinates>8.501028055555601,48.066278055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.313">
+				<name>Homburg Saar Uniklinik</name>
+				<Point>
+					<coordinates>7.345,49.306667222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.314">
+				<name>Singen Hegauklinikum</name>
+				<Point>
+					<coordinates>8.82124,47.760212222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.301">
+				<name>Lahr ETT Ortenau Klinikum</name>
+				<Point>
+					<coordinates>7.8871172222222,48.344067222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.302">
+				<name>Rueppurr Diakonie</name>
+				<Point>
+					<coordinates>8.4091672222222,48.970833055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.303">
+				<name>SRH Klinikum</name>
+				<Point>
+					<coordinates>8.503,48.9045,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.304">
+				<name>Mannheim Klinikum</name>
+				<Point>
+					<coordinates>8.4864311111111,49.493264166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.305">
+				<name>Pforzheim Krankenhaus</name>
+				<Point>
+					<coordinates>8.673406111111101,48.897892222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.306">
+				<name>Pforzheim Arcus</name>
+				<Point>
+					<coordinates>8.6655,48.897833055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.307">
+				<name>Heidelberg Uniklinikum</name>
+				<Point>
+					<coordinates>8.6698330555556,49.4215,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.308">
+				<name>Bad Krozingen Herzzentrum</name>
+				<Point>
+					<coordinates>7.69889,47.907408055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.309">
+				<name>Offenburg Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>7.955,48.476389166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.310">
+				<name>Speyer Diakonie</name>
+				<Point>
+					<coordinates>8.4355830555556,49.31044444444401,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.311">
+				<name>Heidelberg Chirurg Dach</name>
+				<Point>
+					<coordinates>8.665706111111099,49.415203055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.312">
+				<name>Neunkirchen Staedt</name>
+				<Point>
+					<coordinates>7.1830561111111,49.34138916666701,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.316">
+				<name>Balingen Krankenhaus</name>
+				<Point>
+					<coordinates>8.863386111111099,48.287047222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.318">
+				<name>Reutlingen Klinikum</name>
+				<Point>
+					<coordinates>9.2184311111111,48.48397222222201,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.320">
+				<name>Tuebingen Cronakliniken</name>
+				<Point>
+					<coordinates>9.038139166666699,48.52957305555599,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.321">
+				<name>Tuebingen Unfallklinik</name>
+				<Point>
+					<coordinates>9.0356391666667,48.532906111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.322">
+				<name>Nagold Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>8.7229780555556,48.541713055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.323">
+				<name>Tuttlingen Klinikum</name>
+				<Point>
+					<coordinates>8.8314172222222,47.98517500000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.327">
+				<name>Schwalmstadt Asklepios</name>
+				<Point>
+					<coordinates>9.255208055555601,50.921336111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.325">
+				<name>Konstanz Klinikum</name>
+				<Point>
+					<coordinates>9.188675,47.671989166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.326">
+				<name>Schwalmstadt Krankenhaus</name>
+				<Point>
+					<coordinates>9.166389166666701,50.909722222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.332">
+				<name>Eisenach St. Georg</name>
+				<Point>
+					<coordinates>10.316667222222,50.9875,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.328">
+				<name>Kassel Rotes Kreuz Krankenhaus</name>
+				<Point>
+					<coordinates>9.453472222222199,51.311667222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.329">
+				<name>Kassel Klinikum</name>
+				<Point>
+					<coordinates>9.509401111111099,51.328549166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.330">
+				<name>Fulda Klinikum</name>
+				<Point>
+					<coordinates>9.704209166666701,50.545843055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.331">
+				<name>Bad Salzungen Klinikum</name>
+				<Point>
+					<coordinates>10.216731111111,50.804194166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.333">
+				<name>Meiningen Helios Klinikum</name>
+				<Point>
+					<coordinates>10.398942222222,50.557083055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.334">
+				<name>Muehlhausen Klinikum</name>
+				<Point>
+					<coordinates>10.468736111111,51.200392222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.335">
+				<name>Aachen Uniklinikum</name>
+				<Point>
+					<coordinates>6.0443811111111,50.775672222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.336">
+				<name>Rhein Maas Klinikum</name>
+				<Point>
+					<coordinates>6.1432141666667,50.814897222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.338">
+				<name>Krefeld Klinikum</name>
+				<Point>
+					<coordinates>6.56525,51.32128111111101,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.340">
+				<name>Trier Barmherzige Muetter</name>
+				<Point>
+					<coordinates>6.6408330555556,49.762833055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.341">
+				<name>Mechernich Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>6.6500261111111,50.59207222222199,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.343">
+				<name>Duisburg BG</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>6.786599867080101,51.38081057467959,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.344">
+				<name>Duesseldorf Uniklink</name>
+				<Point>
+					<coordinates>6.7892530555556,51.195258055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.345">
+				<name>Dormagen</name>
+				<Point>
+					<coordinates>6.80926,51.073728055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.346">
+				<name>Wittlich St. Elisabeth</name>
+				<Point>
+					<coordinates>6.8930561111111,49.99972222222199,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.347">
+				<name>Koeln Uniklinik</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>6.918225084753853,50.92362172207847,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.348">
+				<name>Nippes St. Vinzenz</name>
+				<Point>
+					<coordinates>6.945764166666699,50.966753055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.350">
+				<name>Essen Uniklinikum</name>
+				<Point>
+					<coordinates>6.9890561111111,51.43356111111099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.351">
+				<name>Koeln Merheim</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>7.0541111111111,50.93861111111099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.355">
+				<name>Marl</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>7.122959613336468,51.66139564012704,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.353">
+				<name>Venusberg Uni</name>
+				<Point>
+					<coordinates>7.1024061111111,50.70177499999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.354">
+				<name>St. Johanneskrankenhaus</name>
+				<Point>
+					<coordinates>7.1181061111111,50.796814166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.356">
+				<name>Trier Mutterhaus</name>
+				<Point>
+					<coordinates>6.6308891666667,49.754361111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.358">
+				<name>Eschweiler St. Antonius</name>
+				<Point>
+					<coordinates>6.264467222222201,50.818481111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.359">
+				<name>Duisburg Nord Ev.</name>
+				<Point>
+					<coordinates>6.766728055555599,51.515839166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.360">
+				<name>Frechen Katharinen</name>
+				<Point>
+					<coordinates>6.8087111111111,50.92316111111099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.362">
+				<name>Duisburg Wedau Sana Kliniken</name>
+				<Point>
+					<coordinates>6.7825561111111,51.396028055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.363">
+				<name>Coesfeld</name>
+				<Point>
+					<coordinates>7.1747641666667,51.943912222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.361">
+				<name>MGL St. Franziskus</name>
+				<Point>
+					<coordinates>6.421600000000001,51.217308055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.364">
+				<name>Bochum</name>
+				<Point>
+					<coordinates>7.2108691666667,51.468685,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.368">
+				<name>Herdecke</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>7.399496426864147,51.41032100051989,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.372">
+				<name>Neuwied Elisabeth</name>
+				<Point>
+					<coordinates>7.4715,50.428,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.371">
+				<name>DO Klinikzentrum Nord</name>
+				<Point>
+					<coordinates>7.4547222222222,51.533333333333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.374">
+				<name>Koblenz BWZK</name>
+				<Point>
+					<coordinates>7.5452780555556,50.367778055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.373">
+				<name>Luenen St. Marienhospital</name>
+				<Point>
+					<coordinates>7.5152691666667,51.618947222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.375">
+				<name>Gummersbach Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>7.5683191666667,51.014846111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.376">
+				<name>Muenster Zentralklinikum</name>
+				<Point>
+					<coordinates>7.5905561111111,51.960556111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.378">
+				<name>Bad Kreuznach Marienwoerth</name>
+				<Point>
+					<coordinates>7.8621672222222,49.847,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.380">
+				<name>Siegen Jungstillkrankenhaus</name>
+				<Point>
+					<coordinates>8.018255,50.85181000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.381">
+				<name>Mainz Uniklinikum</name>
+				<Point>
+					<coordinates>8.2546580555556,49.994131111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.382">
+				<name>Erwitte</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>8.33766644195822,51.61546965750081,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.384">
+				<name>Bad Berleburg</name>
+				<Point>
+					<coordinates>8.3787572222222,51.049845,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.385">
+				<name>Guetersloh</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>8.420587251414222,51.90731368641924,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.386">
+				<name>Bielefeld Krankenhaus</name>
+				<Point>
+					<coordinates>8.544284166666699,52.014737222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.387">
+				<name>Frankfurt Hoechst</name>
+				<Point>
+					<coordinates>8.547114166666701,50.109825,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.389">
+				<name>Frankfurt am Main Nordwestkrankenhaus</name>
+				<Point>
+					<coordinates>8.6195630555556,50.150778055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.391">
+				<name>Frankfurt am Main Uniklinik</name>
+				<Point>
+					<coordinates>8.6625,50.0955,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.393">
+				<name>Giessen Uniklinikum</name>
+				<Point>
+					<coordinates>8.6670561111111,50.57580611111099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.394">
+				<name>Bad Rothenfelde Kliniken</name>
+				<Point>
+					<coordinates>8.1658330555556,52.113333333333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.395">
+				<name>Marburg</name>
+				<Point>
+					<coordinates>8.8076780555556,50.814758055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.396">
+				<name>Bad Soden</name>
+				<Point>
+					<coordinates>8.514444444444401,50.15,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.397">
+				<name>Bad Homburg Hochtaunuskliniken</name>
+				<Point>
+					<coordinates>8.619167222222201,50.212417222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.398">
+				<name>Darmstadt Klinikum</name>
+				<Point>
+					<coordinates>8.645345000000001,49.87457611111099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.399">
+				<name>Wetzlar Lahndillkliniken</name>
+				<Point>
+					<coordinates>8.5283941666667,50.53716416666699,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.401">
+				<name>Nuertingen Medius Klinik</name>
+				<Point>
+					<coordinates>9.359039166666699,48.62881916666699,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.402">
+				<name>Kirchheim unter Teck Medius</name>
+				<Point>
+					<coordinates>9.44308,48.652063055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.403">
+				<name>Boeblingen Krankenhaus</name>
+				<Point>
+					<coordinates>9.0322,48.69056111111099,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.405">
+				<name>Calw Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>8.7466672222222,48.71500000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.406">
+				<name>Ostfildernruit Medius</name>
+				<Point>
+					<coordinates>9.2546111111111,48.741806111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.408">
+				<name>Stuttgart Katharinen</name>
+				<Point>
+					<coordinates>9.173114999999999,48.78399,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.410">
+				<name>Leonberg Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>8.9992511111111,48.803153055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.411">
+				<name>Mutlangen Stauferklinikum</name>
+				<Point>
+					<coordinates>9.787195000000001,48.82010222222199,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.413">
+				<name>Pforzheim Klinikum</name>
+				<Point>
+					<coordinates>8.712043055555601,48.888683055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.414">
+				<name>Ludwigsburg Klinik</name>
+				<Point>
+					<coordinates>9.2039430555556,48.899533055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.415">
+				<name>Markgroeningen Klinik</name>
+				<Point>
+					<coordinates>9.1088891666667,48.908889166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.416">
+				<name>Loewenstein Klink</name>
+				<Point>
+					<coordinates>9.401967222222201,49.089513055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.417">
+				<name>Schwäbisch Hall Diakonie</name>
+				<Point>
+					<coordinates>9.74164,49.12506722222201,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.418">
+				<name>Klinikum am Gesundbrunnen</name>
+				<Point>
+					<coordinates>9.190129166666701,49.153018055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.420">
+				<name>Bad Friedrichshall Klinikum</name>
+				<Point>
+					<coordinates>9.2367330555556,49.213009166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.422">
+				<name>Mosbach Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>9.1526941666667,49.355555555556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.423">
+				<name>Erbach Odenwald Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>9.001689166666701,49.651986111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.424">
+				<name>Ochsenfurt Kreiskrankenhaus</name>
+				<Point>
+					<coordinates>10.086736111111,49.659711111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.426">
+				<name>Uniklinik Wuerzburg</name>
+				<styleUrl>#default</styleUrl>
+				<Point>
+					<coordinates>9.956666828908727,49.80827020972679,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.427">
+				<name>Grossumstadt Kreisklinik</name>
+				<Point>
+					<coordinates>8.9355222222222,49.866657222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.428">
+				<name>Offenbach Klinikum</name>
+				<Point>
+					<coordinates>8.757016111111099,50.094506111111,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.431">
+				<name>Bad Kissingen Elisabeth</name>
+				<Point>
+					<coordinates>10.082639166667,50.190275,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.432">
+				<name>Winnenden Klinik</name>
+				<Point>
+					<coordinates>9.3932111111111,48.870194166667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.433">
+				<name>Stuttgart Marienhospital</name>
+				<Point>
+					<coordinates>9.1638561111111,48.76107416666699,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.434">
+				<name>Esslingen Klinikum</name>
+				<Point>
+					<coordinates>9.3269972222222,48.737533055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.436">
+				<name>Sindelfingen Staedt Krankenhaus</name>
+				<Point>
+					<coordinates>9.024526111111101,48.715108055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.437">
+				<name>Bad Mergentheim Krankenhaus</name>
+				<Point>
+					<coordinates>9.7630030555556,49.48929222222201,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.438">
+				<name>Frankfurt BGU</name>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<coordinates>8.70962112913009,50.14546368779078,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.439">
+				<name>Bad Neustadt Saale</name>
+				<Point>
+					<coordinates>10.235075,50.322678055556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="Helipads.440">
+				<name>Bad Cannstadt Robert Bosch</name>
+				<Point>
+					<coordinates>9.185467222222201,48.813872222222,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,96 @@
+//---------------------------------------------------------------
+//                            Topography
+//---------------------------------------------------------------
+
+MAP:Coastline
+FOLDER:Topo
+LAYER:-1
+STYLE:Solid:1
+COLOR:DFSGrey
+ACTIVE:1
+{{ data.coastline }}
+
+MAP:Topography
+FOLDER:Topo
+LAYER:-1
+STYLE:Solid:1
+TEXTALIGN:LC
+COLOR:black
+{% for uuid, geom in data.urban_areas.items() %}
+{{- geom | to_poly(name, 'topo_urban', 100) }}
+{% endfor %}
+COLOR:topo_road
+{% for uuid, geom in data.autobahn.items() %}
+{{- geom | to_coordline('') }}
+{% endfor %}
+{% for label, geom in data.autobahn_labels.items() %}
+{{- geom | to_text(label) }}
+{% endfor %}
+COLOR:topo_water
+{% for uuid, geom in data.rivers.items() %}
+{{- geom | to_coordline('') }}
+{% endfor %}
+{% for label, geom in data.river_labels.items() %}
+{{- geom | to_text(label) }}
+{% endfor %}
+{% for name, geom in data.lakes.items() %}
+{{- geom | to_poly(name, 'topo_water', 100) }}
+{% endfor %}
+
+MAP:City Labels
+FOLDER:Topo
+LAYER:+3
+COLOR:black
+{% for label, geom in data.urban_labels.items() %}
+{{- geom | to_text(label) }}
+{% endfor %}
+
+MAP:Urban Areas
+FOLDER:Topo
+LAYER:-1
+STYLE:Solid:1
+{% for uuid, geom in data.urban_areas.items() %}
+{{- geom | to_poly(name, 'topo_urban', 100) }}
+{% endfor %}
+
+MAP:Highways
+FOLDER:Topo
+LAYER:-1
+STYLE:Solid:1
+COLOR:topo_road
+{% for uuid, geom in data.autobahn.items() %}
+{{- geom | to_coordline('') }}
+{% endfor %}
+{% for label, geom in data.autobahn_labels.items() %}
+{{- geom | to_text(label) }}
+{% endfor %}
+
+MAP:Rivers and Lakes
+FOLDER:Topo
+LAYER:-1
+STYLE:Solid:1
+COLOR:topo_water
+{% for uuid, geom in data.rivers.items() %}
+{{- geom | to_coordline('') }}
+{% endfor %}
+{% for name, geom in data.lakes.items() %}
+{{- geom | to_poly(name, 'topo_water', 100) }}
+{% endfor %}
+{% for label, geom in data.river_labels.items() %}
+{{- geom | to_text(label) }}
+{% endfor %}
+
+MAP:German Border
+FOLDER:Topo
+LAYER:-1
+STYLE:Solid:1
+COLOR:standard
+{% for uuid, geom in data.border.items() %}
+{{- geom | to_coordline(uuid) }}
+{% endfor %}
+
+MAP:Obstacles
+FOLDER:Topo
+LAYER:+1
+COLOR:standard
+{{ data.obstacles }}

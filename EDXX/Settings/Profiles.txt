@@ -5,74 +5,77 @@ ATIS3:
 ATIS4:
 
 PROFILE:EDXX_FIS_CTR:300:6
-ATIS2:This is Langen Information
-ATIS3:Providing FIS in whole Germany
+ATIS2:Langen Information - We <3 feedback.vatger.de
+ATIS3:Providing FIS in all of Germany
 ATIS4:Not providing ATC for IFR traffic!
 
 PROFILE:EDXX_MM_CTR:300:6
-ATIS2:This is Langen Information
-ATIS3:Providing FIS in EDMM FIR
+ATIS2:Langen Information - We <3 feedback.vatger.de
+ATIS3:Providing FIS in the EDMM FIR
 ATIS4:Not providing ATC for IFR traffic!
 
 PROFILE:EDXX_GG_CTR:300:6
-ATIS2:This is Langen Information
-ATIS3:Providing FIS in EDGG FIR
+ATIS2:Langen Information - We <3 feedback.vatger.de
+ATIS3:Providing FIS in the EDGG FIR
 ATIS4:Not providing ATC for IFR traffic!
 
 PROFILE:EDXX_WW_CTR:300:6
-ATIS2:This is Langen Information
-ATIS3:Providing FIS in EDWW FIR
+ATIS2:Langen Information - We <3 feedback.vatger.de
+ATIS3:Providing FIS in the EDWW FIR
 ATIS4:Not providing ATC for IFR traffic!
 
 PROFILE:EDXX_IDS_CTR:300:6
-ATIS2:This is Langen Information
+ATIS2:Langen Information - We <3 feedback.vatger.de
 ATIS3:Providing FIS around EDDS
 ATIS4:Not providing ATC for IFR traffic!
 
 PROFILE:EDXX_IDL_CTR:300:6
-ATIS2:This is Langen Information
+ATIS2:Langen Information - We <3 feedback.vatger.de
 ATIS3:Providing FIS around EDDL
 ATIS4:Not providing ATC for IFR traffic!
 
 PROFILE:EDXX_IDB_CTR:300:6
-ATIS2:This is Langen Information
+ATIS2:Langen Information - We <3 feedback.vatger.de
 ATIS3:Providing FIS around EDDB
 ATIS4:Not providing ATC for IFR traffic!
 
-
 PROFILE:EDXX_IDR_CTR:300:6
-ATIS2:This is Langen Information
-ATIS3:Providing FIS around EDDR
+ATIS2:Langen Information - We <3 feedback.vatger.de
+ATIS3:Providing FIS west of EDDF
 ATIS4:Not providing ATC for IFR traffic!
-
 
 PROFILE:EDXX_IDM_CTR:300:6
-ATIS2:This is Langen Information
-ATIS3:Providing FIS around EDDM
+ATIS2:Langen Information - We <3 feedback.vatger.de
+ATIS3:Providing FIS south of EDDM and the Alps
 ATIS4:Not providing ATC for IFR traffic!
-
 
 PROFILE:EDXX_IDC_CTR:300:6
-ATIS2:This is Langen Information
-ATIS3:Providing FIS around EDDC
+ATIS2:Langen Information - We <3 feedback.vatger.de
+ATIS3:Providing FIS around EDDC, EDDP and EDQM
 ATIS4:Not providing ATC for IFR traffic!
-
 
 PROFILE:EDXX_IDF_CTR:300:6
-ATIS2:This is Langen Information
-ATIS3:Providing FIS around EDDF
+ATIS2:Langen Information - We <3 feedback.vatger.de
+ATIS3:Providing FIS east of EDDF
 ATIS4:Not providing ATC for IFR traffic!
-
 
 PROFILE:EDXX_IDH_CTR:300:6
-ATIS2:This is Langen Information
-ATIS3:Providing FIS around EDDH
+ATIS2:Langen Information - We <3 feedback.vatger.de
+ATIS3:Providing FIS around EDDH up to Denmark
 ATIS4:Not providing ATC for IFR traffic!
 
-
 PROFILE:EDXX_IDV_CTR:300:6
-ATIS2:This is Langen Information
+ATIS2:Langen Information - We <3 feedback.vatger.de
 ATIS3:Providing FIS around EDDV
 ATIS4:Not providing ATC for IFR traffic!
 
+PROFILE:EDXX_ISW_CTR:300:6
+ATIS2:Langen Information - We <3 feedback.vatger.de
+ATIS3:Providing FIS west of EDDW
+ATIS4:Not providing ATC for IFR traffic!
+
+PROFILE:EDXX_IDO_CTR:300:6
+ATIS2:Langen Information - We <3 feedback.vatger.de
+ATIS3:Providing FIS south of EDDN
+ATIS4:Not providing ATC for IFR traffic!
 END

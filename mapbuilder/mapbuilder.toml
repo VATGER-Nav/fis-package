@@ -1,0 +1,125 @@
+#----------Profile----------
+
+[profiles]
+
+[profiles.FIS]
+maps = [
+    { map = "topsky-fis-maps", target = "Plugins/TopSky/TopSkyMaps.txt" },
+    { map = "topsky-fis-settings", target = "Plugins/TopSky/TopSkySettings.txt" },
+]
+dir = "EDXX"
+aliases = [ "edxx" ]
+
+#------------Topo-----------
+
+[data.urban_areas]
+type = "kml"
+source = "kml/Urban_Areas.kml"
+
+[data.urban_labels]
+type = "kml"
+source = "kml/Urban_Labels.kml"
+
+[data.autobahn]
+type = "kml"
+source = "kml/Autobahn.kml"
+
+[data.autobahn_labels]
+type = "kml"
+source = "kml/Autobahn_Labels.kml"
+
+[data.rivers]
+type = "kml"
+source = "kml/Rivers.kml"
+
+[data.river_labels]
+type = "kml"
+source = "kml/River_Labels.kml"
+
+[data.lakes]
+type = "kml"
+source = "kml/Lakes.kml"
+
+[data.helipads]
+type = "kml"
+source = "kml/Helipads.kml"
+
+[data.border]
+type = "kml"
+source = "kml/Border.kml"
+
+[data.coastline]
+type = "raw"
+source = "misc/topo/coastline.txt"
+
+[data.obstacles]
+type = "raw"
+source = "misc/topo/obstacles.txt"
+
+#----------FIS Sectors----------
+
+[data.fis_sectors]
+type = "raw"
+source = "misc/sectors/fis-sectors.txt"
+
+[data.fis_fir_sectors]
+type = "raw"
+source = "misc/sectors/fis-fir-sectors.txt"
+
+[data.neighbour_fis_sectors]
+type = "raw"
+source = "misc/sectors/neighbour-fis-sectors.txt"
+
+[data.neighbour_firs]
+type = "raw"
+source = "misc/sectors/neighbour-firs.txt"
+
+#-------------ASPC-------------
+
+[data.airspace_c]
+type = "raw"
+source = "misc/airspace/airspace-c.txt"
+
+[data.airspace_d]
+type = "raw"
+source = "misc/airspace/airspace-d.txt"
+
+[data.airspace_d_ctr]
+type = "raw"
+source = "misc/airspace/airspace-d-ctr.txt"
+
+[data.airspace_e]
+type = "raw"
+source = "misc/airspace/airspace-e.txt"
+
+[data.airspace_tmz_rmz_atz]
+type = "raw"
+source = "misc/airspace/airspace-tmz-rmz-atz.txt"
+
+[data.airspace_special]
+type = "raw"
+source = "misc/airspace/airspace-special.txt"
+
+[data.airspace_labels]
+type = "raw"
+source = "misc/airspace/airspace-labels.txt"
+
+[data.glid_sectors]
+type = "raw"
+source = "misc/glider/glid_sectors.txt"
+
+[data.wave_glid_sectors]
+type = "raw"
+source = "misc/glider/wave_glid_sectors.txt"
+
+#--------------MVA-------------
+
+[data.mva_summer]
+type = "raw"
+source = "misc/mva/mva_summer.txt"
+
+[data.mva_winter]
+type = "raw"
+source = "misc/mva/mva_winter.txt"
+
+[runways]

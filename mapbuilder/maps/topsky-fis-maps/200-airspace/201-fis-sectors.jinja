@@ -1,0 +1,44 @@
+//---------------------------------------------------------------
+//                     National FIS Sectors
+//---------------------------------------------------------------
+
+MAP:Sectors
+FOLDER:FIS
+COLOR:standard
+STYLE:Solid:1
+ACTIVE:1
+LAYER:+2
+{{ data.fis_sectors }}
+
+MAP:Squawks
+FOLDER:FIS
+COLOR:black
+STYLE:Solid:1
+LAYER:+2
+//Sectors
+{{ data.fis_sectors }}
+//Squawk Labels
+FONTSIZE:=:20
+TEXT:N050.09.13.631:E007.19.12.112:FDR | A4451
+TEXT:N050.13.27.858:E009.41.10.582:FDF | A4450
+TEXT:N048.37.19.012:E009.08.29.029:FDS | A4452
+TEXT:N051.41.25.211:E007.28.02.137:FDL | A7742
+TEXT:N051.51.00.565:E010.15.41.846:FDV | A7743
+TEXT:N047.58.26.308:E011.14.48.917:FDM | A4453
+TEXT:N049.00.39.422:E011.38.04.363:FDO | A4454
+TEXT:N053.33.24.398:E007.42.52.164:FSW | A7745
+TEXT:N053.52.26.235:E009.44.52.673:FDH | A7740
+TEXT:N050.48.44.984:E012.04.00.552:FDC | A7744
+TEXT:N052.58.19.690:E012.20.06.674:FDB | A7741
+
+MAP:FIR Sectors
+FOLDER:FIS
+COLOR:black
+STYLE:Solid:1
+LAYER:+2
+//Sectors
+{{ data.fis_fir_sectors }}
+FONTSIZE:=:25
+TEXT:N049.52.22.300:E011.28.58.500:IMM
+TEXT:N050.24.59.500:E008.26.17.900:IGG
+TEXT:N053.15.54.200:E010.21.39.700:IWW

@@ -1,0 +1,651 @@
+//---------------------------------------------------------------
+//                    Offshore Heliroutes
+//---------------------------------------------------------------
+
+{%- set KY601 = {
+    'fixes': ['XIPTA', 'XIPTI', 'DIKAT'],
+    'lines': [
+        ('N053.37.53.000:E006.19.68.000', 'N053.49.03.700:E006.12.57.000'),
+        ('XENEV', 'XIPTA'),
+        ('XIPTA', 'XONLO'),
+        ('XONLO', 'XEKRI'),
+        ('XEKRI', 'XIPTI'),
+        ('XIPTI', 'DIKAT')
+    ],
+    'speci_fixes': [
+        ('WETEM', 'N053.37.53.000:E006.19.68.000')
+    ]
+} %}
+
+{%- set KY607 = {
+    'fixes': ['XONLO', 'OTSEL', 'ELSUR'],
+    'lines': [
+        ('XONLO', 'OTSEL'),
+        ('OTSEL', 'ELSUR'),
+        ('ELSUR', 'EPOXU')
+    ]
+} %}
+
+{%- set KY609 = {
+    'fixes': ['XEKRI', 'ABSAM', 'EBUSA'],
+    'lines': [
+        ('XEKRI', 'ABSAM'),
+        ('ABSAM', 'EBUSA')
+    ]
+} %}
+
+{%- set KY672 = {
+    'fixes': ['XENEV'],
+    'lines': [
+        ('N053.40.00.000:E006.30.00.000', 'N053.49.03.700:E006.12.57.000')
+    ],
+    'speci_fixes': [
+        ('RUXAS', 'N053.40.00.000:E006.30.00.000')
+    ]
+} %}
+
+{%- set KY673 = {
+    'fixes': ['IVNUD', 'IXUTA', 'IMVUK', 'INRIP'],
+    'lines': [
+        ('IVNUD', 'INVIT'),
+        ('INVIT', 'IXUTA'),
+        ('IXUTA', 'IMVUK'),
+        ('IMVUK', 'INRIP'),
+        ('INRIP', 'EPOXU')
+    ]
+} %}
+
+{%- set KY674 = {
+    'fixes': ['UTIRA'],
+    'lines': [
+        ('UTIRA', 'IVNUD'),
+        ('IVNUD', 'XENEV')
+    ]
+} %}
+
+{%- set KY675 = {
+    'fixes': ['SUBEV'],
+    'lines': [
+        ('SUBEV', 'IMVUK'),
+        ('IMVUK', 'OTSEL')
+    ]
+} %}
+
+{%- set KY678 = {
+    'fixes': ['LEKSU'],
+    'lines': [
+        ('IVNUD', 'LEKSU')
+    ]
+} %}
+
+{%- set KY680 = {
+    'fixes': ['INDIX', 'INVIT'],
+    'lines': [
+        ('INDIX', 'INVIT'),
+        ('INVIT', 'XIPTA')
+    ]
+} %}
+
+{%- set KY683 = {
+    'fixes': ['OSPAV'],
+    'lines': [
+        ('XIPTA', 'OSPAV'),
+        ('OSPAV', 'OTSEL')
+    ]
+} %}
+
+{%- set KY770 = {
+    'fixes': ['JUIST'],
+    'lines': [
+        ('N053.33.45.700:E006.55.12.100', 'N053.37.53.000:E006.19.68.000'),
+    ]
+} %}
+
+{%- set KY771 = {
+    'speci_fixes': [
+        ('HW711', 'N053.47.89.000:E007.05.82.000'),
+        ('HW712', 'N053.53.51.000:E007.04.51.000'),
+    ],
+    'lines': [
+        ('N053.47.89.000:E007.05.82.000', 'N053.53.51.000:E007.04.51.000'),
+    ]
+} %}
+
+{%- set KY772 = {
+    'lines': [
+        ('N053.33.45.700:E006.55.12.100', 'N053.40.00.000:E006.30.00.000'),
+    ]
+} %}
+
+{%- set KY773 = {
+    'fixes': ['EPOXU', 'OMIMA', 'USULI', 'ANESI'],
+    'lines': [
+        ('EPOXU', 'OMIMA'),
+        ('OMIMA', 'USULI'),
+        ('USULI', 'ANESI')
+    ]
+} %}
+
+{%- set KY774 = {
+    'speci_fixes': [
+        ('HW771', 'N053.40.34.000:E006.52.39.000'),
+        ('HW751', 'N053.44.12.000:E006.40.64.000')
+    ],
+    'lines': [
+        ('N053.40.34.000:E006.52.39.000', 'N053.44.12.000:E006.40.64.000'),
+        ('N053.44.12.000:E006.40.64.000', 'N053.46.02.000:E006.30.00.000')
+    ]
+} %}
+
+{%- set KY775 = {
+    'speci_fixes': [
+        ('HW752', 'N053.50.14.000:E006.41.00.000'),
+        ('HW753', 'N054.05.72.000:E006.41.00.000'),
+        ('HW754', 'N054.10.16.000:E006.37.22.000')
+    ],
+    'lines': [
+        ('N053.33.45.700:E006.55.12.100', 'N053.44.12.000:E006.40.64.000'),
+        ('N053.44.12.000:E006.40.64.000', 'N053.50.14.000:E006.41.00.000'),
+        ('N053.50.14.000:E006.41.00.000', 'N054.05.72.000:E006.41.00.000'),
+        ('N054.05.72.000:E006.41.00.000', 'N054.10.16.000:E006.37.22.000'),
+        ('N054.10.16.000:E006.37.22.000', 'N054.14.55.300:E006.30.00.000')
+    ]
+} %}
+
+{%- set KY776 = {
+    'speci_fixes': [
+        ('CONOR', 'N053.56.70.000:E008.16.48.000'),
+        ('HW761', 'N053.59.96.000:E008.06.51.000'),
+        ('WELGO', 'N054.17.90.000:E007.24.95.000'),
+        ('HW762', 'N054.22.09.000:E007.04.18.000'),
+    ],
+    'fixes': ['ADUNU', 'GOVRA'],
+    'lines': [
+        ('N053.56.70.000:E008.16.48.000', 'N053.59.96.000:E008.06.51.000'),
+        ('N053.59.96.000:E008.06.51.000', 'N054.17.90.000:E007.24.95.000'),
+        ('N054.17.90.000:E007.24.95.000', 'N054.22.09.000:E007.04.18.000'),
+        ('N054.22.09.000:E007.04.18.000', 'N054.33.56.400:E006.29.17.200'),
+        ('INRIP', 'ELSUR'),
+        ('ELSUR', 'ABSAM'),
+        ('ABSAM', 'ADUNU'),
+        ('ADUNU', 'GOVRA'),
+        ('GOVRA', 'DIKAT')
+    ]
+} %}
+
+{%- set KY777 = {
+    'speci_fixes': [
+        ('TEGEC', 'N053.55.60.000:E007.19.42.000'),
+        ('HW772', 'N054.05.00.000:E007.24.42.000'),
+        ('DEUBU', 'N054.10.78.000:E007.27.53.000'),
+        ('HW773', 'N054.56.05.000:E007.11.93.000'),
+    ],
+    'fixes': ['DOROR', 'NUSRI', 'ANESI'],
+    'lines': [
+        ('N053.40.34.000:E006.52.39.000', 'N053.55.60.000:E007.19.42.000'),
+        ('N053.55.60.000:E007.19.42.000', 'N054.05.00.000:E007.24.42.000'),
+        ('N054.05.00.000:E007.24.42.000', 'N054.10.78.000:E007.27.53.000'),
+        ('N054.10.78.000:E007.27.53.000', 'N054.17.90.000:E007.24.95.000'),
+        ('N054.17.90.000:E007.24.95.000', 'N054.56.05.000:E007.11.93.000'),
+        ('N054.56.05.000:E007.11.93.000', 'N055.00.00.000:E007.09.18.000'),
+        ('DOROR', 'NUSRI'),
+        ('NUSRI', 'ANESI'),
+    ]
+} %}
+{%- set KY778 = {
+    'speci_fixes': [
+        ('JAWES', 'N053.58.29.000:E007.38.76.000'),
+    ],
+    'lines': [
+        ('N053.48.35.400:E006.30.00.000', 'N053.50.14.000:E006.41.00.000'),
+        ('N053.50.14.000:E006.41.00.000', 'N053.55.60.000:E007.19.42.000'),
+        ('N053.55.60.000:E007.19.42.000', 'N053.58.29.000:E007.38.76.000'),
+        ('N053.58.29.000:E007.38.76.000', 'N053.59.96.000:E008.06.51.000')
+    ]
+} %}
+
+{%- set KY779 = {
+    'speci_fixes': [
+        ('COMEL', 'N053.46.50.000:E008.05.85.000'),
+        ('HW791', 'N054.23.15.000:E007.59.85.000'),
+        ('HW792', 'N054.48.36.000:E007.44.60.000'),
+        ('EVKAN', 'N055.00.00.000:E007.37.44.000')
+    ],
+    'fixes': ['EKMOL', 'PEGAM'],
+    'lines': [
+        ('N053.46.50.000:E008.05.85.000', 'N053.59.96.000:E008.06.51.000'),
+        ('N053.59.96.000:E008.06.51.000', 'N054.23.15.000:E007.59.85.000'),
+        ('N054.23.15.000:E007.59.85.000', 'N054.48.36.000:E007.44.60.000'),
+        ('N054.48.36.000:E007.44.60.000', 'N055.00.00.000:E007.37.44.000'),
+        ('EVKAN', 'EKMOL'),
+        ('EKMOL', 'PEGAM')
+    ]
+} %}
+
+{%- set KY780 = {
+    'speci_fixes': [
+        ('GEWEC', 'N054.11.50.000:E007.11.37.000')
+    ],
+    'lines': [
+        ('N053.59.96.000:E008.06.51.000', 'N054.10.78.000:E007.27.53.000'),
+        ('N054.10.78.000:E007.27.53.000', 'N054.11.50.000:E007.11.37.000'),
+        ('N054.11.50.000:E007.11.37.000', 'N054.10.16.000:E006.37.22.000'),
+        ('N054.10.16.000:E006.37.22.000', 'N054.10.02.000:E006.30.00.000'),
+    ]
+} %}
+
+{%- set KY781 = {
+    'fixes': ['LUTAN'],
+    'lines': [
+        ('EBUSA', 'LUTAN')
+    ]
+} %}
+
+{%- set KY782 = {
+    'speci_fixes': [
+        ('HW821', 'N054.50.32.000:E006.57.40.000'),
+    ],
+    'fixes': ['BEGAK'],
+    'lines': [
+        ('N054.39.54.800:E006.31.02.300', 'N054.50.32.000:E006.57.40.000'),
+        ('N054.50.32.000:E006.57.40.000', 'N054.56.05.000:E007.11.93.000'),
+        ('N054.56.05.000:E007.11.93.000', 'N055.00.00.000:E007.22.13.000'),
+        ('BEGAK', 'EKMOL'),
+    ]
+} %}
+
+{%- set KY783 = {
+    'speci_fixes': [
+        ('WESEF', 'N053.52.13.000:E007.47.43.000'),
+    ],
+    'lines': [
+        ('N053.52.13.000:E007.47.43.000', 'N053.47.89.000:E007.05.82.000'),
+        ('N053.47.89.000:E007.05.82.000', 'N053.50.14.000:E006.41.00.000'),
+    ]
+} %}
+
+{%- set KY784 = {
+    'speci_fixes': [
+        ('HW901', 'N054.47.00.000:E008.15.00.000'),
+    ],
+    'lines': [
+        ('N054.47.00.000:E008.15.00.000', 'N054.48.36.000:E007.44.60.000'),
+    ]
+} %}
+
+{%- set KY785 = {
+    'speci_fixes': [
+        ('COLAN', 'N053.46.22.000:E007.38.13.000'),
+    ],
+    'lines': [
+        ('N053.46.22.000:E007.38.13.000', 'N053.55.60.000:E007.19.42.000'),
+        ('N053.55.60.000:E007.19.42.000', 'N054.11.50.000:E007.11.37.000'),
+        ('N054.11.50.000:E007.11.37.000', 'N054.22.09.000:E007.04.18.000')
+    ]
+} %}
+
+{%- set KY786 = {
+    'speci_fixes': [
+        ('HW861', 'N053.50.72.000:E007.58.23.000'),
+    ],
+    'lines': [
+        ('N053.50.72.000:E007.58.23.000', 'N053.52.13.000:E007.47.43.000'),
+        ('N053.52.13.000:E007.47.43.000', 'N053.55.60.000:E007.19.42.000'),
+    ]
+} %}
+
+{%- set KY787 = {
+    'fixes': ['TUTNU'],
+    'lines': [
+        ('N053.46.22.000:E007.38.13.000', 'N053.52.13.000:E007.47.43.000'),
+        ('N053.52.13.000:E007.47.43.000', 'N053.58.29.000:E007.38.76.000'),
+        ('N053.58.29.000:E007.38.76.000', 'N054.10.78.000:E007.27.53.000'),
+        ('N054.10.78.000:E007.27.53.000', 'N054.17.90.000:E007.24.95.000'),
+        ('N054.17.90.000:E007.24.95.000', 'N054.50.32.000:E006.57.40.000'),
+        ('N054.50.32.000:E006.57.40.000', 'N055.00.00.000:E006.49.09.000'),
+        ('TUTNU', 'USULI'),
+        ('USULI', 'LUTAN')
+    ]
+} %}
+
+{%- set KY788 = {
+    'speci_fixes': [
+        ('HW881', 'N054.23.08.000:E008.30.00.000'),
+    ],
+    'lines': [
+        ('N054.17.90.000:E007.24.95.000', 'N054.23.15.000:E007.59.85.000'),
+        ('N054.23.15.000:E007.59.85.000', 'N054.23.08.000:E008.30.00.000'),
+    ]
+} %}
+
+{%- set KY789 = {
+    'speci_fixes': [
+        ('HW881', 'N054.23.08.000:E008.30.00.000'),
+    ],
+    'fixes': ['TUSKA'],
+    'lines': [
+        ('N054.17.90.000:E007.24.95.000', 'N054.48.36.000:E007.44.60.000'),
+        ('N054.48.36.000:E007.44.60.000', 'N055.00.00.000:E007.52.34.000'),
+        ('TUSKA', 'PEGAM')
+    ]
+} %}
+
+{%- set KY790 = {
+    'speci_fixes': [
+        ('COWYK', 'N054.45.49.000:E008.31.82.000'),
+    ],
+    'fixes': ['GIKOG'],
+    'lines': [
+        ('N054.38.16.000:E008.57.29.000', 'N054.45.49.000:E008.31.82.000'),
+        ('N054.45.49.000:E008.31.82.000', 'N054.47.00.000:E008.15.00.000'),
+        ('N054.47.00.000:E008.15.00.000', 'N055.00.00.000:E007.52.34.000'),
+        ('TUSKA', 'EKMOL'),
+        ('EKMOL', 'NUSRI')
+    ]
+} %}
+
+{%- set KY791 = {
+    'lines': [
+        ('N053.46.50.000:E008.05.85.000', 'N053.50.72.000:E007.58.23.000'),
+        ('N053.50.72.000:E007.58.23.000', 'N053.58.29.000:E007.38.76.000'),
+        ('N053.58.29.000:E007.38.76.000', 'N054.05.00.000:E007.24.42.000'),
+        ('N054.05.00.000:E007.24.42.000', 'N054.11.50.000:E007.11.37.000')
+    ]
+} %}
+
+{%- set KY792 = {
+    'lines': [
+        ('N054.23.08.000:E008.30.00.000', 'N054.10.78.000:E007.27.53.000'),
+        ('N054.10.78.000:E007.27.53.000', 'N054.11.50.000:E007.11.37.000'),
+        ('N054.11.50.000:E007.11.37.000', 'N054.05.72.000:E006.41.00.000')
+    ]
+} %}
+
+{%- set KY793 = {
+    'speci_fixes': [
+        ('VEPOL', 'N054.27.24.000:E008.35.75.000')
+    ],
+    'lines': [
+        ('N053.50.72.000:E007.58.23.000', 'N053.59.96.000:E008.06.51.000'),
+        ('N053.59.96.000:E008.06.51.000', 'N054.23.08.000:E008.30.00.000'),
+        ('N054.23.08.000:E008.30.00.000', 'N054.27.24.000:E008.35.75.000')
+    ]
+} %}
+
+{%- set KY794 = {
+    'lines': [
+        ('N054.27.24.000:E008.35.75.000', 'N054.47.00.000:E008.15.00.000'),
+    ]
+} %}
+
+{%- set KY884 = {
+    'lines': [
+        ('NUSRI', 'PEGAM')
+    ]
+} %}
+
+MAP:Offshore Heli Routes
+FOLDER:Misc
+COLOR:grey
+STYLE:Solid:1
+//KY601
+{%- for fx in KY601.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY601.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+{%- for speci_fx in KY601.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+//KY607
+{%- for fx in KY607.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY607.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY609
+{%- for fx in KY609.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY609.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY672
+{%- for fx in KY672.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY672.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+{%- for speci_fx in KY672.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+//KY673
+{%- for fx in KY673.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY673.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY674
+{%- for fx in KY674.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY674.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY675
+{%- for fx in KY675.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY675.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY678
+{%- for fx in KY678.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY678.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY680
+{%- for fx in KY680.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY680.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY683
+{%- for fx in KY683.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY683.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY770
+{%- for fx in KY770.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY770.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY771
+{%- for speci_fx in KY771.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+{%- for line in KY771.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY772
+{%- for line in KY772.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY773
+{%- for fx in KY773.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY773.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY774
+{%- for speci_fx in KY774.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+{%- for line in KY774.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY775
+{%- for speci_fx in KY775.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+{%- for line in KY775.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY776
+{%- for fx in KY776.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for speci_fx in KY776.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+{%- for line in KY776.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY777
+{%- for fx in KY777.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for speci_fx in KY777.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+{%- for line in KY777.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY778
+{%- for speci_fx in KY778.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+{%- for line in KY778.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY779
+{%- for fx in KY779.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for speci_fx in KY779.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+{%- for line in KY779.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY780
+{%- for speci_fx in KY780.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+{%- for line in KY780.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY781
+{%- for fx in KY781.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY781.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY782
+{%- for fx in KY782.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for speci_fx in KY782.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+{%- for line in KY782.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY783
+{%- for speci_fx in KY783.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+{%- for line in KY783.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY784
+{%- for speci_fx in KY784.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+{%- for line in KY784.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY785
+{%- for speci_fx in KY785.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+{%- for line in KY785.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY786
+{%- for speci_fx in KY786.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+{%- for line in KY786.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY787
+{%- for fx in KY787.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY787.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY788
+{%- for speci_fx in KY788.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+{%- for line in KY788.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY789
+{%- for speci_fx in KY789.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+{%- for fx in KY789.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY789.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY790
+{%- for speci_fx in KY790.speci_fixes %}
+SYMBOL:FIX:{{ speci_fx[1] }}:{{ speci_fx[0] }}:27:10
+{%- endfor %}
+{%- for fx in KY790.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY790.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY791
+{%- for line in KY791.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY792
+{%- for line in KY792.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY793
+{%- for fx in KY793.fixes %}
+SYMBOL:FIX:{{ fx }}:{{ fx }}:27:10
+{%- endfor %}
+{%- for line in KY793.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY794
+{%- for line in KY794.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}
+//KY884
+{%- for line in KY884.lines %}
+LINE:{{ line[0] }}:{{ line[1] }}
+{%- endfor %}

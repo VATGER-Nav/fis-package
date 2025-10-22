@@ -1,0 +1,27 @@
+//---------------------------------------------------------------
+//                            Colors
+//---------------------------------------------------------------
+
+COLORDEF:white:255:255:255
+COLORDEF:red:128:0:0
+COLORDEF:yellow:140:140:0
+COLORDEF:green:0:140:29
+COLORDEF:orange:255:113:8
+COLORDEF:blue:0:145:255
+COLORDEF:lightblue:0:175:157
+COLORDEF:grey:134:134:135
+COLORDEF:DFSGrey:200:200:200
+COLORDEF:black:0:0:0
+
+COLORDEF:background:227:227:227
+COLORDEF:standard:170:170:170
+COLORDEF:ecl:170:170:170
+COLORDEF:runway:89:89:89
+COLORDEF:label:40:40:40
+COLORDEF:fis:40:40:40
+COLORDEF:mva:106:171:102
+
+COLORDEF:topo_water:180:188:209
+COLORDEF:topo_road:209:178:155
+COLORDEF:topo_border:210:210:210
+COLORDEF:topo_urban:209:209:209

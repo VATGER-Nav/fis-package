@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Autobahn_Labels">
+	<name>Autobahn_Labels</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Placemark id="Autobahn_Labels.1">
+		<name>A3#1</name>
+		<Point>
+			<coordinates>8.548856329715511,50.0605807646573,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.2">
+		<name>A5#1</name>
+		<Point>
+			<coordinates>8.629434546807969,49.9273095028696,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.3">
+		<name>A3#2</name>
+		<Point>
+			<coordinates>8.91176527777778,50.0668294444445,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.4">
+		<name>A3#3</name>
+		<Point>
+			<coordinates>9.427267954783691,49.9090389066227,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.5">
+		<name>A3#4</name>
+		<Point>
+			<coordinates>9.770588786672009,49.7907761423383,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.6">
+		<name>A3#5</name>
+		<Point>
+			<coordinates>10.3144666666667,49.7905827777778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.7">
+		<name>A3#6</name>
+		<Point>
+			<coordinates>10.8987811111111,49.67473722222219,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.8">
+		<name>A3#7</name>
+		<Point>
+			<coordinates>11.1380552777778,49.5165638888889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.9">
+		<name>A3#8</name>
+		<Point>
+			<coordinates>11.7404452777778,49.2060925,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.10">
+		<name>A3#9</name>
+		<Point>
+			<coordinates>12.2553814168473,49.0162841663842,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.11">
+		<name>A3#10</name>
+		<Point>
+			<coordinates>8.265346680395799,50.2393807927503,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.12">
+		<name>A3#11</name>
+		<Point>
+			<coordinates>7.387117171491181,50.6512593505108,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.13">
+		<name>A3#12</name>
+		<Point>
+			<coordinates>7.035149485098,51.0038361681829,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.14">
+		<name>A3#13</name>
+		<Point>
+			<coordinates>6.93543210486914,51.2777469436562,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.15">
+		<name>A3#14</name>
+		<Point>
+			<coordinates>6.64795265229423,51.71714312867201,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.16">
+		<name>A20#1</name>
+		<Point>
+			<coordinates>11.05429370306,53.85194159015921,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.17">
+		<name>A20#2</name>
+		<Point>
+			<coordinates>11.9135663944927,53.9526040660344,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.18">
+		<name>A20#3</name>
+		<Point>
+			<coordinates>13.2220883333333,54.0850888888889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.19">
+		<name>A20#4</name>
+		<Point>
+			<coordinates>13.5176426055407,53.5854937162923,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.20">
+		<name>A24#1</name>
+		<Point>
+			<coordinates>12.7938579913453,52.8896240397336,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.21">
+		<name>A24#2</name>
+		<Point>
+			<coordinates>11.9148245923854,53.3341464382353,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.22">
+		<name>A24#3</name>
+		<Point>
+			<coordinates>10.7032095146501,53.5663739591225,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.23">
+		<name>A14</name>
+		<Point>
+			<coordinates>11.5480513508208,53.6517393342925,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.24">
+		<name>A19</name>
+		<Point>
+			<coordinates>12.4027393909018,53.688715894791,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.25">
+		<name>A1#1</name>
+		<Point>
+			<coordinates>9.4816988055343,53.2629007048039,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.26">
+		<name>A1#2</name>
+		<Point>
+			<coordinates>8.53711847598206,52.92323754235291,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.27">
+		<name>A1#3</name>
+		<Point>
+			<coordinates>8.139442615038149,52.5416095539939,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.28">
+		<name>A7#1</name>
+		<Point>
+			<coordinates>9.92028361111111,52.9624544444444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.29">
+		<name>A7#2</name>
+		<Point>
+			<coordinates>9.78755260989135,52.5968227368508,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.30">
+		<name>A7#3</name>
+		<Point>
+			<coordinates>9.984614816962299,52.1948306860396,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.31">
+		<name>A7#4</name>
+		<Point>
+			<coordinates>9.946740555555561,51.606965,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.32">
+		<name>A7#5</name>
+		<Point>
+			<coordinates>9.62231640572687,51.3364640432589,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.33">
+		<name>A7#6</name>
+		<Point>
+			<coordinates>9.515471807435841,51.0267521468861,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.34">
+		<name>A2#1</name>
+		<Point>
+			<coordinates>7.522803611111111,51.5903975,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.35">
+		<name>A2#2</name>
+		<Point>
+			<coordinates>8.242462016345939,51.81353671024869,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.36">
+		<name>A2#3</name>
+		<Point>
+			<coordinates>8.756728481577429,52.10784304790239,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.37">
+		<name>A2#4</name>
+		<Point>
+			<coordinates>9.4396276738173,52.3376472147336,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.38">
+		<name>A2#5</name>
+		<Point>
+			<coordinates>10.1854127777778,52.3681680555556,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.39">
+		<name>A2#6</name>
+		<Point>
+			<coordinates>11.2461255232782,52.21821674408179,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.40">
+		<name>A2#7</name>
+		<Point>
+			<coordinates>12.4861901564641,52.2814691556735,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.41">
+		<name>A9#1</name>
+		<Point>
+			<coordinates>12.7098447222222,52.0846516666667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.42">
+		<name>A9#2</name>
+		<Point>
+			<coordinates>12.2116694459854,51.3327262284136,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.43">
+		<name>A9#3</name>
+		<Point>
+			<coordinates>11.9320158333333,51.0240555555555,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.44">
+		<name>A9#4</name>
+		<Point>
+			<coordinates>11.8284554968649,50.5462310417061,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.45">
+		<name>A9#5</name>
+		<Point>
+			<coordinates>11.7732620041751,50.1418073827317,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.46">
+		<name>A9#6</name>
+		<Point>
+			<coordinates>11.5456595119639,49.73925317054821,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.47">
+		<name>A9#7</name>
+		<Point>
+			<coordinates>11.2869236026788,49.1781729984206,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.48">
+		<name>A9#8</name>
+		<Point>
+			<coordinates>11.627733263133,48.40546530558719,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.49">
+		<name>A7#7</name>
+		<Point>
+			<coordinates>9.748212777777781,50.53953666666671,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.50">
+		<name>A7#8</name>
+		<Point>
+			<coordinates>10.0193947222222,49.8809133333333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.51">
+		<name>A7#9</name>
+		<Point>
+			<coordinates>10.2884707757926,49.43065681860741,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.52">
+		<name>A7#10</name>
+		<Point>
+			<coordinates>10.2112061111111,48.8143683333333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.53">
+		<name>A7#11</name>
+		<Point>
+			<coordinates>10.1318358333333,48.16424305555551,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.54">
+		<name>A7#12</name>
+		<Point>
+			<coordinates>10.4020223849155,47.719735425721,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.55">
+		<name>A96#1</name>
+		<Point>
+			<coordinates>10.022484782078,47.8000937718653,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.56">
+		<name>A96#2</name>
+		<Point>
+			<coordinates>10.8828200194444,48.08857305328161,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.57">
+		<name>A81#1</name>
+		<Point>
+			<coordinates>9.59924116699513,49.4804709293367,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.58">
+		<name>A81#2</name>
+		<Point>
+			<coordinates>9.21047888888889,48.95225416666669,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.59">
+		<name>A81#3</name>
+		<Point>
+			<coordinates>8.68949747722116,48.3064883215949,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.60">
+		<name>A8#1</name>
+		<Point>
+			<coordinates>8.784785329979069,48.9173950585964,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.61">
+		<name>A8#2</name>
+		<Point>
+			<coordinates>9.660118907446501,48.6143856446733,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.62">
+		<name>A8#3</name>
+		<Point>
+			<coordinates>10.9255698639856,48.4294105760002,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.63">
+		<name>A6#1</name>
+		<Point>
+			<coordinates>8.916824849064261,49.24397630387579,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.64">
+		<name>A6#2</name>
+		<Point>
+			<coordinates>9.74000849725889,49.2064846980512,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.65">
+		<name>A6#3</name>
+		<Point>
+			<coordinates>10.7445957159493,49.2659844559932,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.66">
+		<name>A48</name>
+		<Point>
+			<coordinates>7.24020655927036,50.2278743759194,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.67">
+		<name>A1#4</name>
+		<Point>
+			<coordinates>6.96798979419027,50.00249177578059,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.68">
+		<name>A1#5</name>
+		<Point>
+			<coordinates>7.00601930633596,49.4578029209978,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.69">
+		<name>A62#1</name>
+		<Point>
+			<coordinates>7.41412990929615,49.5113239423868,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.70">
+		<name>A62#2</name>
+		<Point>
+			<coordinates>7.63990865750509,49.2671342033451,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.71">
+		<name>A45#1</name>
+		<Point>
+			<coordinates>7.65943527777778,51.24957,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.72">
+		<name>A45#2</name>
+		<Point>
+			<coordinates>8.37850743630009,50.62662538168551,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.73">
+		<name>A45#3</name>
+		<Point>
+			<coordinates>8.983973488170101,50.3044600351734,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.74">
+		<name>A4#1</name>
+		<Point>
+			<coordinates>7.418013707843989,51.0001101500483,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.75">
+		<name>A5#2</name>
+		<Point>
+			<coordinates>8.69867852211598,50.2970417652291,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.76">
+		<name>A5#3</name>
+		<Point>
+			<coordinates>9.1444068183645,50.7326157767686,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.77">
+		<name>A4#2</name>
+		<Point>
+			<coordinates>10.1569541666667,51.0286125,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.78">
+		<name>A4#3</name>
+		<Point>
+			<coordinates>11.4136761363477,50.9411956688414,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.79">
+		<name>A4#4</name>
+		<Point>
+			<coordinates>12.3022495727695,50.87423439218279,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.80">
+		<name>A4#5</name>
+		<Point>
+			<coordinates>13.0916926083037,50.9516581820094,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.81">
+		<name>A44#1</name>
+		<Point>
+			<coordinates>8.333066919782439,51.6002548041634,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.82">
+		<name>A44#2</name>
+		<Point>
+			<coordinates>9.295580018311069,51.37187836827441,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.83">
+		<name>A44#3</name>
+		<Point>
+			<coordinates>10.7754667314555,51.4998649240225,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.84">
+		<name>A38#1</name>
+		<Point>
+			<coordinates>11.9335790052594,51.39626438298751,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="Autobahn_Labels.85">
+		<name>A38#2</name>
+		<Point>
+			<coordinates>12.5006739860886,51.25413077403619,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

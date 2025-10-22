@@ -1,0 +1,35 @@
+//---------------------------------------------------------------
+//                           Airspace
+//---------------------------------------------------------------
+
+MAP:Labels
+FOLDER:Airspace
+COLOR:grey
+LAYER:+2
+{{ data.airspace_labels }}
+
+MAP:Airspace C
+FOLDER:Airspace
+COLOR:standard
+LAYER:+1
+ACTIVE:1
+{{ data.airspace_c }}
+
+{{ data.airspace_d_ctr }}
+
+MAP:Airspace D
+FOLDER:Airspace
+COLOR:standard
+LAYER:+1
+ACTIVE:1
+{{ data.airspace_d }}
+
+MAP:Airspace E
+FOLDER:Airspace
+LAYER:-1
+COLOR:DFSGrey
+{{ data.airspace_e }}
+
+{{ data.airspace_tmz_rmz_atz }}
+
+{{ data.airspace_special }}

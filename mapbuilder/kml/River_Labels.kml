@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="River_Labels">
+	<name>River_Labels</name>
+	<open>1</open>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	<Placemark id="River_Labels.1">
+		<name>Main#1</name>
+		<Point>
+			<coordinates>9.1853225,49.8987544444444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.2">
+		<name>Main#2</name>
+		<Point>
+			<coordinates>10.1775572222222,49.71383,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.3">
+		<name>Main#3</name>
+		<Point>
+			<coordinates>10.5602277777778,50.0314647222222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.4">
+		<name>Main#4</name>
+		<Point>
+			<coordinates>11.2722666865037,50.1430546328293,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.5">
+		<name>Rhein#1</name>
+		<Point>
+			<coordinates>8.621598333333329,47.5515877777778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.6">
+		<name>Rhein#2</name>
+		<Point>
+			<coordinates>7.79721671437309,48.4138531501648,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.7">
+		<name>Rhein#3</name>
+		<Point>
+			<coordinates>8.408090368780609,49.1669899945772,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.8">
+		<name>Rhein#4</name>
+		<Point>
+			<coordinates>8.40702379970568,49.8597560500359,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.9">
+		<name>Rhein#5</name>
+		<Point>
+			<coordinates>7.77828888888889,50.1435897222222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.10">
+		<name>Rhein#6</name>
+		<Point>
+			<coordinates>7.364068611111109,50.5116708333333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.11">
+		<name>Rhein#7</name>
+		<Point>
+			<coordinates>7.02880833333333,50.8423594444444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.12">
+		<name>Rhein#8</name>
+		<Point>
+			<coordinates>6.75357333333333,51.3253522222222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.13">
+		<name>Rhein#9</name>
+		<Point>
+			<coordinates>6.44030530955441,51.7467583317859,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.14">
+		<name>Neckar#1</name>
+		<Point>
+			<coordinates>8.73601083333333,49.4365119444444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.15">
+		<name>Neckar#2</name>
+		<Point>
+			<coordinates>9.20684202898814,49.0849974085842,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.16">
+		<name>Neckar#3</name>
+		<Point>
+			<coordinates>9.2950518279062,48.7568482674619,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.17">
+		<name>Neckar#4</name>
+		<Point>
+			<coordinates>9.276132803250929,48.5728664709851,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.18">
+		<name>Neckar#5</name>
+		<Point>
+			<coordinates>8.67471464165004,48.1609295651738,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.19">
+		<name>Fils</name>
+		<Point>
+			<coordinates>9.7064699619821,48.71679730756251,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.20">
+		<name>Rems</name>
+		<Point>
+			<coordinates>9.39346805467286,48.83216843749441,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.21">
+		<name>Enz</name>
+		<Point>
+			<coordinates>8.820020833333331,48.96271194444441,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.22">
+		<name>Donau#1</name>
+		<Point>
+			<coordinates>8.360281952807661,48.0393408081705,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.23">
+		<name>Donau#2</name>
+		<Point>
+			<coordinates>9.52544431679342,48.1210107312805,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.24">
+		<name>Donau#3</name>
+		<Point>
+			<coordinates>10.4454074422366,48.5103705168324,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.25">
+		<name>Donau#4</name>
+		<Point>
+			<coordinates>11.3137270732068,48.7877484754733,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.26">
+		<name>Donau#5</name>
+		<Point>
+			<coordinates>12.5775269140601,48.9522466208107,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.27">
+		<name>Donau#6</name>
+		<Point>
+			<coordinates>13.7497000611868,48.53070267673009,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.28">
+		<name>Murg</name>
+		<Point>
+			<coordinates>8.4072711049281,48.67735312699561,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.29">
+		<name>Iller</name>
+		<Point>
+			<coordinates>10.2210887602918,48.0756341591312,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.30">
+		<name>Lech</name>
+		<Point>
+			<coordinates>11.0130575711146,48.301389971592,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.31">
+		<name>Isar</name>
+		<Point>
+			<coordinates>12.2233310321619,48.52167560877241,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.32">
+		<name>Inn</name>
+		<Point>
+			<coordinates>12.9935972583748,48.19857860991,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.33">
+		<name>Mosel#1</name>
+		<Point>
+			<coordinates>7.39908491346629,50.1726690723685,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.34">
+		<name>Mosel#2</name>
+		<Point>
+			<coordinates>6.9346018369734,49.8264730665023,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.35">
+		<name>Mosel#3</name>
+		<Point>
+			<coordinates>6.19094793447463,49.3277046294738,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.36">
+		<name>Saar</name>
+		<Point>
+			<coordinates>6.913526091214339,49.2667495079091,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.37">
+		<name>Nahe</name>
+		<Point>
+			<coordinates>7.47171474494799,49.76192938508531,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.38">
+		<name>Ahr</name>
+		<Point>
+			<coordinates>7.04814087564297,50.5006771657803,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.39">
+		<name>Weser#1</name>
+		<Point>
+			<coordinates>8.63512403172688,53.1679508963934,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.40">
+		<name>Weser#2</name>
+		<Point>
+			<coordinates>9.1300499431467,52.51842967177161,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.41">
+		<name>Weser#3</name>
+		<Point>
+			<coordinates>9.40398861111111,51.69476916666671,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.42">
+		<name>Fulda</name>
+		<Point>
+			<coordinates>9.63083363610246,50.7830868788165,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.43">
+		<name>Werra</name>
+		<Point>
+			<coordinates>10.0317283333333,50.8624644444444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.44">
+		<name>Leine</name>
+		<Point>
+			<coordinates>9.78851955420188,52.1170844450172,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.45">
+		<name>Aller</name>
+		<Point>
+			<coordinates>10.1087705555556,52.6344761111111,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.46">
+		<name>Elbe#1</name>
+		<Point>
+			<coordinates>9.54804618683791,53.7170678798273,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.47">
+		<name>Elbe#2</name>
+		<Point>
+			<coordinates>11.8665526948319,52.93820719879759,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.48">
+		<name>Elbe#3</name>
+		<Point>
+			<coordinates>11.6949197222222,52.15117388888891,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.49">
+		<name>Elbe#4</name>
+		<Point>
+			<coordinates>13.2833734876613,51.37851533498001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.50">
+		<name>Lahn</name>
+		<Point>
+			<coordinates>8.279814774122441,50.4528826902201,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.51">
+		<name>Sieg</name>
+		<Point>
+			<coordinates>7.62283409517747,50.81169780371859,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.52">
+		<name>Wupper</name>
+		<Point>
+			<coordinates>7.140791908596031,51.19256825384539,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.53">
+		<name>Ruhr</name>
+		<Point>
+			<coordinates>7.60622708668754,51.4257969994497,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.54">
+		<name>Lippe#1</name>
+		<Point>
+			<coordinates>6.89494618045443,51.6874825707445,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.55">
+		<name>Lippe#2</name>
+		<Point>
+			<coordinates>7.913929259875189,51.7177154903205,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.56">
+		<name>Lippe#3</name>
+		<Point>
+			<coordinates>8.438758582263951,51.7168415057937,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.57">
+		<name>Alme</name>
+		<Point>
+			<coordinates>8.583882585628141,51.5571849275809,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.58">
+		<name>Mulde#1</name>
+		<Point>
+			<coordinates>12.3289724616085,51.7465984670504,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.59">
+		<name>Mulde#2</name>
+		<Point>
+			<coordinates>12.7709219270332,51.3433139097016,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.60">
+		<name>Zwickauer Mulde</name>
+		<Point>
+			<coordinates>12.5410359864053,50.7747339336394,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.61">
+		<name>Zschupau</name>
+		<Point>
+			<coordinates>13.0419580398,50.98439075212891,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.62">
+		<name>Freiberger Mulde</name>
+		<Point>
+			<coordinates>13.0091925648967,51.17321253759769,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.63">
+		<name>Saale#1</name>
+		<Point>
+			<coordinates>11.7905461111111,51.80676361111111,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.64">
+		<name>Saale#2</name>
+		<Point>
+			<coordinates>11.9434550972964,51.1866976400592,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.65">
+		<name>Saale#3</name>
+		<Point>
+			<coordinates>11.6814262411872,50.96710756076951,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.66">
+		<name>Saale#4</name>
+		<Point>
+			<coordinates>11.3808990816741,50.6748653584967,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.67">
+		<name>Saale#5</name>
+		<Point>
+			<coordinates>11.9561407954171,50.2007296773789,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.68">
+		<name>Unstrut#1</name>
+		<Point>
+			<coordinates>11.6649134531667,51.2826404854744,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.69">
+		<name>Unstrut#2</name>
+		<Point>
+			<coordinates>10.8174489889121,51.10303827782501,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.70">
+		<name>Helme</name>
+		<Point>
+			<coordinates>10.6524902777778,51.5317266666667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.71">
+		<name>Weisse Elster</name>
+		<Point>
+			<coordinates>12.0143575,50.9783672222222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.72">
+		<name>Ems#2</name>
+		<Point>
+			<coordinates>8.56303722958638,51.839500831633,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.73">
+		<name>Ems</name>
+		<Point>
+			<coordinates>7.38707624991121,53.1180080423911,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.74">
+		<name>Havel#1</name>
+		<Point>
+			<coordinates>12.3555826963062,52.67606949429761,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.75">
+		<name>Havel#2</name>
+		<Point>
+			<coordinates>13.2375818416076,52.64097567617449,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.76">
+		<name>Havel#3</name>
+		<Point>
+			<coordinates>13.3117131131469,53.1459488246766,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.77">
+		<name>Oder#1</name>
+		<Point>
+			<coordinates>14.5615959550628,53.3060038223688,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.78">
+		<name>Oder#2</name>
+		<Point>
+			<coordinates>14.4494026031608,52.72168498511219,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.79">
+		<name>Oder#3</name>
+		<Point>
+			<coordinates>15.0229425309714,52.0860298114044,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.80">
+		<name>Dahme</name>
+		<Point>
+			<coordinates>13.7947811545745,52.1822047162492,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.81">
+		<name>Spree#1</name>
+		<Point>
+			<coordinates>13.9696471230766,52.393711298366,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.82">
+		<name>Spree#2</name>
+		<Point>
+			<coordinates>13.9862497356707,51.8829417500386,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.83">
+		<name>Spree#3</name>
+		<Point>
+			<coordinates>14.5518708196625,51.43351865800399,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.84">
+		<name>Elbe#5</name>
+		<Point>
+			<coordinates>12.8482255675106,51.8305589794753,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.85">
+		<name>Regen</name>
+		<Point>
+			<coordinates>12.2335936153086,49.229401901918,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.86">
+		<name>Sauer</name>
+		<Point>
+			<coordinates>6.32462985854596,49.8782387860972,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.87">
+		<name>Niers</name>
+		<Point>
+			<coordinates>6.32241346369841,51.4835768903109,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.88">
+		<name>Rur</name>
+		<Point>
+			<coordinates>6.445810215851991,50.86382993898929,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="River_Labels.89">
+		<name>Maas</name>
+		<Point>
+			<coordinates>6.17988482854394,51.3822409207679,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
